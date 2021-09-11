@@ -42,10 +42,10 @@
                                                 <!-- LOGO -->
                                                 <div class="col-md-3 col-sm-3 col-xs-4">
                                                     <div class="logo">
-                                                        <a class="main_sticky_main_l" href="index.html" title="Clínica Láser Médico">
+                                                        <a class="main_sticky_main_l" href="index.php" title="Clínica Láser Médico">
                                                             <img src="assets/images/clinica-laser-medico.png" alt="Clínica Láser Médico">
                                                         </a>
-                                                        <a class="main_sticky_l" href="index.html" title="Clínica Láser Médico">
+                                                        <a class="main_sticky_l" href="index.php" title="Clínica Láser Médico">
                                                             <img src="assets/images/clinica-laser-medico-white.png" alt="Clínica Láser Médico">
                                                         </a>
                                                     </div>
@@ -83,7 +83,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="mobile_menu_logo text-center">
-                        <a href="index.html" title="Clínica Láser Médico">
+                        <a href="index.php" title="Clínica Láser Médico">
                             <img src="assets/images/clinica-laser-medico.png" alt="Clínica Láser Médico">
                         </a>
                     </div>

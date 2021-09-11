@@ -20,14 +20,14 @@
                             <div class="testiCreCon">
                                 <i class="fa fa-quote-right"></i>
                                 <!-- content -->
-                                <p>Following best practices and pro edures provided by the leading orga izations in the industry, our clea ng and disinfectingIt</p>
+                                <p>El mejor tratamiento que me hice para el acné y rosácea, excelente resultado y excelentes profesionales. &#128079;</p>
                             </div>
                             <div class="em_test_thumb">
-                                <img src="assets/images/testimonial2.png" alt="" />
+                                <img src="assets/images/testimonio-juliwhats.png" alt="Foto de perfil @juliwhats" />
                             </div>
                             <div class="testAuthor">
-                                <h6>Zonson Amplilian</h6>
-                                <span> Co- Of Officer </span>
+                                <h6>@juliwhats</h6>
+                                <span> Desde Instagram </span>
                             </div>
                         </div>
                     </div>
@@ -39,14 +39,14 @@
                             <div class="testiCreCon">
                                 <i class="fa fa-quote-right"></i>
                                 <!-- content -->
-                                <p>Following best practices and pro edures provided by the leading orga izations in the industry, our clea ng and disinfectingIt</p>
+                                <p>¿Láser CO2 fraccionado para reducir manchas, acné y cicatrices? Es maravilloso yo me lo hice 100% recomendable &#128153;</p>
                             </div>
                             <div class="em_test_thumb">
-                                <img src="assets/images/testimonial1.png" alt="" />
+                                <img src="assets/images/testimonio-egalleguillos.png" alt="Foto de perfil @e.galleguillos" />
                             </div>
                             <div class="testAuthor">
-                                <h6>Rahul Alartson</h6>
-                                <span> Admin Officer </span>
+                                <h6>@e.galleguillos</h6>
+                                <span> Desde Instagram </span>
                             </div>
                         </div>
                     </div>
@@ -58,14 +58,14 @@
                             <div class="testiCreCon">
                                 <i class="fa fa-quote-right"></i>
                                 <!-- content -->
-                                <p>Following best practices and pro edures provided by the leading orga izations in the industry, our clea ng and disinfectingIt</p>
+                                <p>&#128525; 10000% recomendable mi hija se atiende ahi son muy amables y todo es real y se ven resultados además de la atención es muy buena son muy amables.</p>
                             </div>
                             <div class="em_test_thumb">
-                                <img src="assets/images/testimonial3.png" alt="" />
+                                <img src="assets/images/testimonio-carolina-rodriguez.png" alt="Foto de perfil Carolina Rodriguez" />
                             </div>
                             <div class="testAuthor">
-                                <h6>Robert Amplilian</h6>
-                                <span> Chief People Officer </span>
+                                <h6>Carolina P. Rodríguez</h6>
+                                <span> Desde Facebook </span>
                             </div>
                         </div>
                     </div>
@@ -77,14 +77,14 @@
                             <div class="testiCreCon">
                                 <i class="fa fa-quote-right"></i>
                                 <!-- content -->
-                                <p>Following best practices and pro edures provided by the leading orga izations in the industry, our clea ng and disinfectingIt</p>
+                                <p>¿Eliminación con láser de lunares, verrugas, quistes? Yo fuiii.. exelenteeee atencion y no qeda rastro alguno ...fue lo mejor &#128156;</p>
                             </div>
                             <div class="em_test_thumb">
-                                <img src="assets/images/testimonial1.png" alt="" />
+                                <img src="assets/images/testimonio-fabyta-andrea.png" alt="Foto de perfil Fabyta Andrea" />
                             </div>
                             <div class="testAuthor">
-                                <h6>Marvin McKinney</h6>
-                                <span> District Officer </span>
+                                <h6>Fabyta Andrea</h6>
+                                <span> Desde Facebook </span>
                             </div>
                         </div>
                     </div>

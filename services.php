@@ -8,7 +8,7 @@
                         <div class="witr_section_title_inner text-center">
                             <h2>Nuestra historia se remonta a finales de los años 70.</h2>
                             <hr class="line-bottom">
-                            <h3>Somos <span class="c-primary">Clínica Láser Médico</span></h3>
+                            <h1>Somos <span class="c-primary">Clínica Láser Médico</span></h1>
                             <h2>Disfruta de nuestros Servicios</h2>
                         </div>
                     </div>
@@ -177,6 +177,86 @@
                             </div>
                         </div>
                     </div>
+                    <!-- serivce_09 -->
+                    <div class="item_pos col-lg-6">
+                        <div class="witr_single_pslide">
+                            <div class="witr_pslide_image">
+                                <img src="assets/images/servicio-exilis-ultra.jpg" alt="Exilis Ultra es un nuevo tratamiento no invasivo para conseguir reafirmar la piel.">
+                            </div>
+                            <div class="witr_content_pslide_text">
+                                <div class="witr_number_pslide">
+                                    <h4>09.</h4>
+                                </div>
+                                <div class="witr_content_pslide">
+                                    <p>Tensar la piel + Reducción Celulitis</p>
+                                    <h3><a href="#">Exilis Ultra</a></h3>
+                                </div>
+                                <div class="witr_pslide_custom">
+                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- serivce_10 -->
+                    <div class="item_pos col-lg-6">
+                        <div class="witr_single_pslide">
+                            <div class="witr_pslide_image">
+                                <img src="assets/images/servicio-EMSCULPT.jpg" alt="EMSCULPT es una tecnología capaz de aumentar la musculatura.">
+                            </div>
+                            <div class="witr_content_pslide_text">
+                                <div class="witr_number_pslide">
+                                    <h4>10.</h4>
+                                </div>
+                                <div class="witr_content_pslide">
+                                    <p>Recuperando tu silueta</p>
+                                    <h3><a href="#">EMSCULPT</a></h3>
+                                </div>
+                                <div class="witr_pslide_custom">
+                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- serivce_11 -->
+                    <div class="item_pos col-lg-6">
+                        <div class="witr_single_pslide">
+                            <div class="witr_pslide_image">
+                                <img src="assets/images/servicio-ondas-de-choque.jpg" alt="En la actualidad las ondas de choques resuelven diversas dolencias.">
+                            </div>
+                            <div class="witr_content_pslide_text">
+                                <div class="witr_number_pslide">
+                                    <h4>11.</h4>
+                                </div>
+                                <div class="witr_content_pslide">
+                                    <p>Alivio de dolencias</p>
+                                    <h3><a href="#">Ondas de choque</a></h3>
+                                </div>
+                                <div class="witr_pslide_custom">
+                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- serivce_12 -->
+                    <div class="item_pos col-lg-6">
+                        <div class="witr_single_pslide">
+                            <div class="witr_pslide_image">
+                                <img src="assets/images/servicio-de-criolipolisis.jpg" alt="La Criolipólisis es la muerte de las células grasas a través del frío.">
+                            </div>
+                            <div class="witr_content_pslide_text">
+                                <div class="witr_number_pslide">
+                                    <h4>12.</h4>
+                                </div>
+                                <div class="witr_content_pslide">
+                                    <p>Muerte de las células grasas</p>
+                                    <h3><a href="#">Criolipólisis</a></h3>
+                                </div>
+                                <div class="witr_pslide_custom">
+                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <!-- Mobile Services -->
@@ -335,6 +415,106 @@
                                 <div class="witr_content_pslide">
                                     <p>De manera exitosa</p>
                                     <h3><a href="#">Eliminación de estrías</a></h3>
+                                </div>
+                                <div class="witr_pslide_custom">
+                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- serivce_08 -->
+                    <div class="item_pos col-lg-12">
+                        <div class="witr_single_pslide">
+                            <div class="witr_pslide_image">
+                                <img src="assets/images/servicio-eliminacion-de-estrias.jpg" alt="Eliminación de estrías de manera exitosa">
+                            </div>
+                            <div class="witr_content_pslide_text">
+                                <div class="witr_number_pslide">
+                                    <h4>08.</h4>
+                                </div>
+                                <div class="witr_content_pslide">
+                                    <p>De manera exitosa</p>
+                                    <h3><a href="#">Eliminación de estrías</a></h3>
+                                </div>
+                                <div class="witr_pslide_custom">
+                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- serivce_09 -->
+                    <div class="item_pos col-lg-12">
+                        <div class="witr_single_pslide">
+                            <div class="witr_pslide_image">
+                                <img src="assets/images/servicio-exilis-ultra.jpg" alt="Exilis Ultra es un nuevo tratamiento no invasivo para conseguir reafirmar la piel.">
+                            </div>
+                            <div class="witr_content_pslide_text">
+                                <div class="witr_number_pslide">
+                                    <h4>09.</h4>
+                                </div>
+                                <div class="witr_content_pslide">
+                                    <p>Tensar la piel + Reducción Celulitis</p>
+                                    <h3><a href="#">Exilis Ultra</a></h3>
+                                </div>
+                                <div class="witr_pslide_custom">
+                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- serivce_10 -->
+                    <div class="item_pos col-lg-12">
+                        <div class="witr_single_pslide">
+                            <div class="witr_pslide_image">
+                                <img src="assets/images/servicio-EMSCULPT.jpg" alt="EMSCULPT es una tecnología capaz de aumentar la musculatura.">
+                            </div>
+                            <div class="witr_content_pslide_text">
+                                <div class="witr_number_pslide">
+                                    <h4>10.</h4>
+                                </div>
+                                <div class="witr_content_pslide">
+                                    <p>Recuperando tu silueta</p>
+                                    <h3><a href="#">EMSCULPT</a></h3>
+                                </div>
+                                <div class="witr_pslide_custom">
+                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- serivce_11 -->
+                    <div class="item_pos col-lg-12">
+                        <div class="witr_single_pslide">
+                            <div class="witr_pslide_image">
+                                <img src="assets/images/servicio-ondas-de-choque.jpg" alt="En la actualidad las ondas de choques resuelven diversas dolencias.">
+                            </div>
+                            <div class="witr_content_pslide_text">
+                                <div class="witr_number_pslide">
+                                    <h4>11.</h4>
+                                </div>
+                                <div class="witr_content_pslide">
+                                    <p>Alivio de dolencias</p>
+                                    <h3><a href="#">Ondas de choque</a></h3>
+                                </div>
+                                <div class="witr_pslide_custom">
+                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- serivce_12 -->
+                    <div class="item_pos col-lg-12">
+                        <div class="witr_single_pslide">
+                            <div class="witr_pslide_image">
+                                <img src="assets/images/servicio-de-criolipolisis.jpg" alt="La Criolipólisis es la muerte de las células grasas a través del frío.">
+                            </div>
+                            <div class="witr_content_pslide_text">
+                                <div class="witr_number_pslide">
+                                    <h4>12.</h4>
+                                </div>
+                                <div class="witr_content_pslide">
+                                    <p>Muerte de las células grasas</p>
+                                    <h3><a href="#">Criolipólisis</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
                                     <a href="#"><span class="ti-arrow-right"></span></a>
