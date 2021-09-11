@@ -248,7 +248,7 @@
                                     <h4>12.</h4>
                                 </div>
                                 <div class="witr_content_pslide">
-                                    <p>Muerte de las células grasas</p>
+                                    <p>Destrucción de las células grasas</p>
                                     <h3><a href="#">Criolipólisis</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
@@ -513,7 +513,7 @@
                                     <h4>12.</h4>
                                 </div>
                                 <div class="witr_content_pslide">
-                                    <p>Muerte de las células grasas</p>
+                                    <p>Destrucción de las células grasas</p>
                                     <h3><a href="#">Criolipólisis</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">

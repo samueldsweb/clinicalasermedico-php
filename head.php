@@ -14,4 +14,6 @@
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
     <!-- modernizr js -->
     <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
+    <!-- Css adicionales -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>

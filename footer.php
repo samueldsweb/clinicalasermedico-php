@@ -1,3 +1,7 @@
+<!-- Icono de whatsapp -->
+<a href="https://wa.link/47gr6p">
+    <img class="btn-whatsapp animate__animated animate__delay-3s animate__pulse animate__repeat-3" src="assets/images/whatsapp.svg" alt="Escríbenos al whatsapp">
+</a>
 <!-- witrfm_footer_area -->
 <footer>
     <div class="witrfm_area">
@@ -7,7 +11,7 @@
                     <div class=" col-lg-3 col-md-6 col-sm-12">
                         <div class="widget widget_solutech_description_widget">
                             <div class="solutech-description-area">
-                                <a href="#"><img src="assets/images/clinica-laser-medico-white.png" alt="Clinica láser médico, somos especialistas en tratamientos láser"></a>
+                                <a class="d-none d-md-block" href="index.php"><img src="assets/images/clinica-laser-medico-white.png" alt="Clinica láser médico, somos especialistas en tratamientos láser"></a>
 
                                 <div class="social-icons">
                                     <a href="https://www.facebook.com/clinicalasermedicoclm/" target="_blank"><i class="fa fa-facebook-f"></i></a>
@@ -43,7 +47,7 @@
                                                 <i class="fa fa-map-marker"></i>
                                             </div>
                                             <div class="footer-sociala-info">
-                                                <p>Darío Salas 699, Coquimbo</p>
+                                                <p>Darío Salas 699, Coquimbo.</p>
                                             </div>
                                         </div>
                                         <div class="footer_s_inner">

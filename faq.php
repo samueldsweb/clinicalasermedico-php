@@ -12,41 +12,41 @@
                     </div>
                     <div class="witr_single_progress">
                         <div class="witr_title2">
-                            <span class="witr_label">Texto de prueba</span>
+                            <span class="witr_label">Años de experiencia</span>
                         </div>
                         <div class="progress witr_progress-style2">
-                            <div class="progress-bar wow fadeInLeft " data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 90%;">
+                            <div class="progress-bar wow fadeInLeft " data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 99%;">
+                                <span class="witr_percent">99%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="witr_single_progress">
+                        <div class="witr_title2">
+                            <span class="witr_label">Tecnología de última generación</span>
+                        </div>
+                        <div class="progress witr_progress-style2">
+                            <div class="progress-bar wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 90%;">
                                 <span class="witr_percent">90%</span>
                             </div>
                         </div>
                     </div>
                     <div class="witr_single_progress">
                         <div class="witr_title2">
-                            <span class="witr_label">Texto de prueba</span>
+                            <span class="witr_label">Tratamientos estéticos para hombres y mujeres</span>
                         </div>
                         <div class="progress witr_progress-style2">
-                            <div class="progress-bar wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 60%;">
-                                <span class="witr_percent">60%</span>
+                            <div class="progress-bar wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 99%;">
+                                <span class="witr_percent">99%</span>
                             </div>
                         </div>
                     </div>
                     <div class="witr_single_progress">
                         <div class="witr_title2">
-                            <span class="witr_label">Texto de prueba</span>
+                            <span class="witr_label">Procedimientos de alta calidad</span>
                         </div>
                         <div class="progress witr_progress-style2">
-                            <div class="progress-bar wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 85%;">
-                                <span class="witr_percent">85%</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="witr_single_progress">
-                        <div class="witr_title2">
-                            <span class="witr_label">Texto de prueba</span>
-                        </div>
-                        <div class="progress witr_progress-style2">
-                            <div class="progress-bar wow fadeInLeft " data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 90%;">
-                                <span class="witr_percent">90%</span>
+                            <div class="progress-bar wow fadeInLeft " data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 95%;">
+                                <span class="witr_percent">95%</span>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                                             01. ¿Donde están ubicados?</a>
                                     </div>
                                     <div id="collapse_242536c" class="collapse" data-parent="#accordion">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu ad minim veniam, quis nostrud exercitation.</p>
+                                        <p>Hoy en día contamos con dos sucursales, en <a href="https://goo.gl/maps/n2XUSWDYtES8CUx99" target="_blank">Coquimbo</a> (Dario Salas 699 una cuadra al Sur del Hospital) y <a href="https://goo.gl/maps/QyJ5N9QBmNB1VNWj8" target="_blank">Santiago</a> (Alameda 949, metro U. de Chile, Piso 12, Oficina 1205).</p>
                                     </div>
                                 </div>
                                 <div class="card card-2">

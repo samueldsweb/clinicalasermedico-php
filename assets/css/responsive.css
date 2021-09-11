@@ -88,7 +88,7 @@
     }
      #scrollUp {
          right: 65px;
-         bottom: 92px;
+         bottom: 25px;
     }
     /* swiper slider */
      .witr_swiper_area .text-right .witr_slider_thumb {
@@ -461,7 +461,7 @@
          padding-top: 15px;
     }
      #scrollUp {
-         bottom:85px;
+         bottom:25px;
          right: 30px;
     }
      .features .em-feature-title h3 {
@@ -1124,7 +1124,7 @@
          position: initial !important;
     }
      #scrollUp {
-         bottom:85px;
+         bottom:25px;
          right: 30px;
     }
     /* solutech_features_area */
@@ -2323,7 +2323,7 @@
          display: none !important;
     }
      #scrollUp {
-         bottom: 92px;
+         bottom: 25px;
          right: 30px;
     }
      .witr_blog_area10 .witr_blog_con {
