@@ -10590,22 +10590,22 @@ a{
      display: inline-block;
 }
 /* footer text des */
- .solutech-description-area{
+ .clm-description-area{
 }
- .solutech-description-area a{
+ .clm-description-area a{
 }
- .solutech-description-area a img {
+ .clm-description-area a img {
      margin: 26px 0;
 }
- .solutech-description-area p {
+ .clm-description-area p {
      color: #fff;
 }
- .footer-middle .solutech-description-area p, .solutech-description-area .phone a{
+ .footer-middle .clm-description-area p, .clm-description-area .phone a{
 }
  .social-icons {
      text-align: left;
 }
- .solutech-description-area .social-icons a {
+ .clm-description-area .social-icons a {
      width: 40px;
      height: 40px;
      line-height: 40px;
@@ -10618,7 +10618,7 @@ a{
      color: #fff;
      border: 1px solid #fff;
 }
- .solutech-description-area .social-icons a:hover{
+ .clm-description-area .social-icons a:hover{
      background:#0c5adb;
      border-color:#0c5adb;
 }
@@ -11399,20 +11399,20 @@ a{
      font-family: "Barlow Condensed", Sans-serif;
      font-size: 15px;
 }
- .solutech_about_area{
+ .about_area{
      padding:95px 0px 60px;
 }
  .service_top{
      margin-top:48px;
 }
- .solutech_about_area .witr_content_pslide p {
+ .about_area .witr_content_pslide p {
      color:#0c5adb !important;
      font-family: "Barlow Condensed", Sans-serif;
      font-size: 15px;
      font-weight: 600;
      padding: 5px 0px 0px 0px;
 }
- .solutech_about_area .witr_pslide3 .witr_pslide_custom a span {
+ .about_area .witr_pslide3 .witr_pslide_custom a span {
      background: #0c5adb1F;
 }
  .solutech_serivce_area {
@@ -11603,7 +11603,7 @@ a{
  .solutech_work_area.work_area {
      padding:95px 0px 70px;
 }
- .solutech_testimonial_bg_area{
+ .clm_testimonial_bg_area{
      background-image: url(../images/testimonial-bg-img.jpg);
      background-position: center center;
      background-repeat: no-repeat;
@@ -11611,7 +11611,7 @@ a{
      padding:95px 0px 70px;
      position:relative;
 }
- .solutech_testimonial_bg_area:before {
+ .clm_testimonial_bg_area:before {
      content: "";
      position: absolute;
      left: 0px;
@@ -11750,7 +11750,7 @@ a{
      padding: 20px 50px 20px 50px;
      border-radius:0px;
 }
- .solutech_about_area {
+ .about_area {
      padding: 95px 0px 63px;
 }
  .about_area .witr_section_title_inner.text-left p {
@@ -12136,7 +12136,7 @@ a{
  .solutech_countdown_area {
      padding: 0px 0px 100px;
 }
- .solutech_testimonial2_area.home_security {
+ .solutech_testimonial2_area.home_clm {
      padding:0px 0px 70px;
 }
  .security_video_area {
@@ -12461,7 +12461,7 @@ a{
      height:500px;
      border:none;
 }
- .solutech_about_area.home2{
+ .about_area.home2{
      padding:100px 0px 0px;
 }
 /* solutech_contact5_area */
@@ -12543,7 +12543,7 @@ a{
  .solutech_make_service_area.make_service2:before {
      background: #222429cc;
 }
- .solutech_about_area.choose_page {
+ .about_area.choose_page {
      padding: 100px 0px 90px;
 }
  .swiper2.choose_page .witr_swiper_height::before {
@@ -12555,10 +12555,10 @@ a{
  .blog_page .blog-part.all_blog_color {
      box-shadow: 0px 0px 30px 0px rgb(0 0 0 / 5%);
 }
- .solutech_about_area.home_security {
+ .about_area.home_clm {
      padding: 96px 0px 100px;
 }
- .solutech_about_area.choose {
+ .about_area.choose {
      padding: 100px 0px 100px;
 }
  .solutech_pricing2_area.choose_page {

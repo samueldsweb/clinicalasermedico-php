@@ -53,7 +53,7 @@
                                                 <div class="col-md-9 col-sm-9 col-xs-8">
                                                     <nav class="solutech_menu main-search-menu">
                                                         <ul class="sub-menu">
-                                                            <li><a href="#">Experiencia</a></li>
+                                                            <li><a href="nuestra-experiencia.php">Experiencia</a></li>
                                                             <li><a href="#">Tecnología Láser</a></li>
                                                             <li><a href="#">Profesionales</a></li>
                                                             <li><a href="#">Servicios</a></li>
@@ -98,7 +98,7 @@
             <div class="menu_area mobile-menu">
                 <nav class="solutech_menu">
                     <ul class="sub-menu">
-                        <li><a href="#">Experiencia</a></li>
+                        <li><a href="nuestra-experiencia.php">Experiencia</a></li>
                         <li><a href="#">Tecnología Láser</a></li>
                         <li><a href="#">Profesionales</a></li>
                         <li><a href="#">Servicios</a></li>

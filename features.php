@@ -1,6 +1,6 @@
 <!-- features_area -->
 <section>
-    <div class="solutech_features_area">
+    <div class="clm_features_area">
         <div class="container">
             <div class="row features_bg">
                 <!-- features_01 -->

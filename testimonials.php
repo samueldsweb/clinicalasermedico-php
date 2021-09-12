@@ -1,6 +1,6 @@
-<!-- solutech_testimonial_bg_area -->
+<!-- clm_testimonial_bg_area -->
 <section>
-    <div class="solutech_testimonial_bg_area">
+    <div class="clm_testimonial_bg_area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -13,7 +13,7 @@
                 </div>
             </div>
             <div class="carso_idtesti all_color_testimonial dfa testi_top">
-                <!-- solutech_blog_01 -->
+                <!-- clm_blog_01 -->
                 <div class="item guttergs">
                     <div class="single_creativeItem post_t6">
                         <div class="box-size">
@@ -32,7 +32,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- solutech_blog_02 -->
+                <!-- clm_blog_02 -->
                 <div class="item guttergs">
                     <div class="single_creativeItem post_t6">
                         <div class="box-size">
@@ -51,7 +51,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- solutech_blog_03 -->
+                <!-- clm_blog_03 -->
                 <div class="item guttergs">
                     <div class="single_creativeItem post_t6">
                         <div class="box-size">
@@ -70,7 +70,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- solutech_blog_04 -->
+                <!-- clm_blog_04 -->
                 <div class="item guttergs">
                     <div class="single_creativeItem post_t6">
                         <div class="box-size">

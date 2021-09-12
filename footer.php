@@ -9,8 +9,8 @@
             <div class="container">
                 <div class="row">
                     <div class=" col-lg-3 col-md-6 col-sm-12">
-                        <div class="widget widget_solutech_description_widget">
-                            <div class="solutech-description-area">
+                        <div class="widget">
+                            <div class="clm-description-area">
                                 <a class="d-none d-md-block" href="index.php"><img src="assets/images/clinica-laser-medico-white.png" alt="Clinica láser médico, somos especialistas en tratamientos láser"></a>
 
                                 <div class="social-icons">

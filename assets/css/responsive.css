@@ -492,7 +492,7 @@
      .bs5 span {
          font-size: 15px;
     }
-     .solutech_about_area .witr_section_title_inner h3 {
+     .about_area .witr_section_title_inner h3 {
          font-size: 28px;
     }
      .witr_single_counter {
@@ -1127,8 +1127,8 @@
          bottom:25px;
          right: 30px;
     }
-    /* solutech_features_area */
-     .solutech_features_area .em-feature {
+    /* clm_features_area */
+     .clm_features_area .em-feature {
          margin-bottom: 0px;
     }
      .play_img .witr_about_image img {
@@ -1278,7 +1278,7 @@
      .solutech_content h2{
          font-size: 31px;
     }
-     .solutech_about_area .single_image_area {
+     .about_area .single_image_area {
          margin-bottom: 50px;
     }
      .witr_test_part {
@@ -2478,7 +2478,7 @@
      .witr_content_pslide_text a {
          font-size: 21px;
     }
-     .solutech_about_area .witr_pslide3 .witr_pslide_custom a span {
+     .about_area .witr_pslide3 .witr_pslide_custom a span {
          display: none;
     }
      .serivce_bg .witr_section_title .text-right {
@@ -2538,7 +2538,7 @@
      .faq_area .accordion_area .card-2 p {
          padding: 15px 10px 5px;
     }
-     .home_security .single_image {
+     .home_clm .single_image {
          margin-bottom: 40px;
     }
      .choose .single_image {

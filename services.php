@@ -1,6 +1,6 @@
 <!-- services_area -->
 <section>
-    <div class="solutech_about_area">
+    <div class="about_area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

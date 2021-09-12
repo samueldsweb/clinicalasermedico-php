@@ -14,9 +14,9 @@ include("head.php");
 
     <section>
         <!-- about_area -->
-        <article class="solutech_about_area home_security">
+        <article class="about_area home_clm">
             <div class="container">
-                <div class="row about_area">
+                <div class="row mx-0">
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="single_image_area">
                             <div class="single_image  ">
