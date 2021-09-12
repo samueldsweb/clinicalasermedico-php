@@ -118,12 +118,12 @@ var arrayToLatLng = function(coords, useGeoJSON) {
   return coords;
 };
 
-var getElementsByClassName = function (class_name, solutech) {
+var getElementsByClassName = function (class_name, clm) {
     var element,
         _class = class_name.replace('.', '');
 
-    if ('jQuery' in this && solutech) {
-        element = $("." + _class, solutech)[0];
+    if ('jQuery' in this && clm) {
+        element = $("." + _class, clm)[0];
     } else {
         element = document.getElementsByClassName(_class)[0];
     }
@@ -131,12 +131,12 @@ var getElementsByClassName = function (class_name, solutech) {
 
 };
 
-var getElementById = function(id, solutech) {
+var getElementById = function(id, clm) {
   var element,
   id = id.replace('#', '');
 
-  if ('jQuery' in window && solutech) {
-    element = $('#' + id, solutech)[0];
+  if ('jQuery' in window && clm) {
+    element = $('#' + id, clm)[0];
   } else {
     element = document.getElementById(id);
   };
@@ -201,12 +201,12 @@ var GMaps = (function(global) {
 
     var self = this,
         i,
-        events_that_hide_solutech_menu = [
+        events_that_hide_clm_menu = [
           'bounds_changed', 'center_changed', 'click', 'dblclick', 'drag',
           'dragend', 'dragstart', 'idle', 'maptypeid_changed', 'projection_changed',
           'resize', 'tilesloaded', 'zoom_changed'
         ],
-        events_that_doesnt_hide_solutech_menu = ['mousemove', 'mouseout', 'mouseover'],
+        events_that_doesnt_hide_clm_menu = ['mousemove', 'mouseout', 'mouseover'],
         options_to_be_deleted = ['el', 'lat', 'lng', 'mapType', 'width', 'height', 'markerClusterer', 'enableNewStyle'],
         identifier = options.el || options.div,
         markerClustererFunction = options.markerClusterer,
@@ -250,9 +250,9 @@ var GMaps = (function(global) {
              *
              * @type {HTMLElement}
              */
-            this.el = getElementById(identifier, options.solutech);
+            this.el = getElementById(identifier, options.clm);
         } else {
-            this.el = getElementsByClassName.apply(this, [identifier, options.solutech]);
+            this.el = getElementsByClassName.apply(this, [identifier, options.clm]);
         }
       } else {
           this.el = identifier;
@@ -262,8 +262,8 @@ var GMaps = (function(global) {
       throw 'No element defined.';
     }
 
-    window.solutech_menu = window.solutech_menu || {};
-    window.solutech_menu[self.el.id] = {};
+    window.clm_menu = window.clm_menu || {};
+    window.clm_menu[self.el.id] = {};
 
     /**
      * Collection of custom controls in the map UI
@@ -338,12 +338,12 @@ var GMaps = (function(global) {
 
     map_options = extend_object(map_base_options, options);
 
-    for (i = 0; i < events_that_hide_solutech_menu.length; i++) {
-      delete map_options[events_that_hide_solutech_menu[i]];
+    for (i = 0; i < events_that_hide_clm_menu.length; i++) {
+      delete map_options[events_that_hide_clm_menu[i]];
     }
 
-    for (i = 0; i < events_that_doesnt_hide_solutech_menu.length; i++) {
-      delete map_options[events_that_doesnt_hide_solutech_menu[i]];
+    for (i = 0; i < events_that_doesnt_hide_clm_menu.length; i++) {
+      delete map_options[events_that_doesnt_hide_clm_menu[i]];
     }
 
     /**
@@ -362,9 +362,9 @@ var GMaps = (function(global) {
       this.markerClusterer = markerClustererFunction.apply(this, [this.map]);
     }
 
-    var buildsolutechMenuHTML = function(control, e) {
+    var buildclmMenuHTML = function(control, e) {
       var html = '',
-          options = window.solutech_menu[self.el.id][control];
+          options = window.clm_menu[self.el.id][control];
 
       for (var i in options){
         if (options.hasOwnProperty(i)) {
@@ -374,41 +374,41 @@ var GMaps = (function(global) {
         }
       }
 
-      if (!getElementById('gmaps_solutech_menu')) return;
+      if (!getElementById('gmaps_clm_menu')) return;
 
-      var solutech_menu_element = getElementById('gmaps_solutech_menu');
+      var clm_menu_element = getElementById('gmaps_clm_menu');
 
-      solutech_menu_element.innerHTML = html;
+      clm_menu_element.innerHTML = html;
 
-      var solutech_menu_items = solutech_menu_element.getElementsByTagName('a'),
-          solutech_menu_items_count = solutech_menu_items.length,
+      var clm_menu_items = clm_menu_element.getElementsByTagName('a'),
+          clm_menu_items_count = clm_menu_items.length,
           i;
 
-      for (i = 0; i < solutech_menu_items_count; i++) {
-        var solutech_menu_item = solutech_menu_items[i];
+      for (i = 0; i < clm_menu_items_count; i++) {
+        var clm_menu_item = clm_menu_items[i];
 
         var assign_menu_item_action = function(ev){
           ev.preventDefault();
 
           options[this.id.replace(control + '_', '')].action.apply(self, [e]);
-          self.hidesolutechMenu();
+          self.hideclmMenu();
         };
 
-        google.maps.event.clearListeners(solutech_menu_item, 'click');
-        google.maps.event.addDomListenerOnce(solutech_menu_item, 'click', assign_menu_item_action, false);
+        google.maps.event.clearListeners(clm_menu_item, 'click');
+        google.maps.event.addDomListenerOnce(clm_menu_item, 'click', assign_menu_item_action, false);
       }
 
       var position = findAbsolutePosition.apply(this, [self.el]),
           left = position[0] + e.pixel.x - 15,
           top = position[1] + e.pixel.y- 15;
 
-      solutech_menu_element.style.left = left + "px";
-      solutech_menu_element.style.top = top + "px";
+      clm_menu_element.style.left = left + "px";
+      clm_menu_element.style.top = top + "px";
 
-      // solutech_menu_element.style.display = 'block';
+      // clm_menu_element.style.display = 'block';
     };
 
-    this.buildsolutechMenu = function(control, e) {
+    this.buildclmMenu = function(control, e) {
       if (control === 'marker') {
         e.pixel = {};
 
@@ -421,32 +421,32 @@ var GMaps = (function(global) {
 
           e.pixel = projection.fromLatLngToContainerPixel(position);
 
-          buildsolutechMenuHTML(control, e);
+          buildclmMenuHTML(control, e);
         };
       }
       else {
-        buildsolutechMenuHTML(control, e);
+        buildclmMenuHTML(control, e);
       }
 
-      var solutech_menu_element = getElementById('gmaps_solutech_menu');
+      var clm_menu_element = getElementById('gmaps_clm_menu');
 
       setTimeout(function() {
-        solutech_menu_element.style.display = 'block';
+        clm_menu_element.style.display = 'block';
       }, 0);
     };
 
     /**
-     * Add a solutech menu for a map or a marker.
+     * Add a clm menu for a map or a marker.
      *
      * @param {object} options - The `options` object should contain:
-     * * `control` (string): Kind of control the solutech menu will be attached. Can be "map" or "marker".
-     * * `options` (array): A collection of solutech menu items:
-     *   * `title` (string): Item's title shown in the solutech menu.
+     * * `control` (string): Kind of control the clm menu will be attached. Can be "map" or "marker".
+     * * `options` (array): A collection of clm menu items:
+     *   * `title` (string): Item's title shown in the clm menu.
      *   * `name` (string): Item's identifier.
-     *   * `action` (function): Function triggered after selecting the solutech menu item.
+     *   * `action` (function): Function triggered after selecting the clm menu item.
      */
-    this.setsolutechMenu = function(options) {
-      window.solutech_menu[self.el.id][options.control] = {};
+    this.setclmMenu = function(options) {
+      window.clm_menu[self.el.id][options.control] = {};
 
       var i,
           ul = doc.createElement('ul');
@@ -455,14 +455,14 @@ var GMaps = (function(global) {
         if (options.options.hasOwnProperty(i)) {
           var option = options.options[i];
 
-          window.solutech_menu[self.el.id][options.control][option.name] = {
+          window.clm_menu[self.el.id][options.control][option.name] = {
             title: option.title,
             action: option.action
           };
         }
       }
 
-      ul.id = 'gmaps_solutech_menu';
+      ul.id = 'gmaps_clm_menu';
       ul.style.display = 'none';
       ul.style.position = 'absolute';
       ul.style.minWidth = '100px';
@@ -471,29 +471,29 @@ var GMaps = (function(global) {
       ul.style.padding = '8px';
       ul.style.boxShadow = '2px 2px 6px #ccc';
 
-      if (!getElementById('gmaps_solutech_menu')) {
+      if (!getElementById('gmaps_clm_menu')) {
         doc.body.appendChild(ul);
       }
 
-      var solutech_menu_element = getElementById('gmaps_solutech_menu');
+      var clm_menu_element = getElementById('gmaps_clm_menu');
 
-      google.maps.event.addDomListener(solutech_menu_element, 'mouseout', function(ev) {
+      google.maps.event.addDomListener(clm_menu_element, 'mouseout', function(ev) {
         if (!ev.relatedTarget || !this.contains(ev.relatedTarget)) {
           window.setTimeout(function(){
-            solutech_menu_element.style.display = 'none';
+            clm_menu_element.style.display = 'none';
           }, 400);
         }
       }, false);
     };
 
     /**
-     * Hide the current solutech menu
+     * Hide the current clm menu
      */
-    this.hidesolutechMenu = function() {
-      var solutech_menu_element = getElementById('gmaps_solutech_menu');
+    this.hideclmMenu = function() {
+      var clm_menu_element = getElementById('gmaps_clm_menu');
 
-      if (solutech_menu_element) {
-        solutech_menu_element.style.display = 'none';
+      if (clm_menu_element) {
+        clm_menu_element.style.display = 'none';
       }
     };
 
@@ -505,23 +505,23 @@ var GMaps = (function(global) {
 
         options[name].apply(this, [e]);
 
-        self.hidesolutechMenu();
+        self.hideclmMenu();
       });
     };
 
-    //google.maps.event.addListener(this.map, 'idle', this.hidesolutechMenu);
-    google.maps.event.addListener(this.map, 'zoom_changed', this.hidesolutechMenu);
+    //google.maps.event.addListener(this.map, 'idle', this.hideclmMenu);
+    google.maps.event.addListener(this.map, 'zoom_changed', this.hideclmMenu);
 
-    for (var ev = 0; ev < events_that_hide_solutech_menu.length; ev++) {
-      var name = events_that_hide_solutech_menu[ev];
+    for (var ev = 0; ev < events_that_hide_clm_menu.length; ev++) {
+      var name = events_that_hide_clm_menu[ev];
 
       if (name in options) {
         setupListener(this.map, name);
       }
     }
 
-    for (var ev = 0; ev < events_that_doesnt_hide_solutech_menu.length; ev++) {
-      var name = events_that_doesnt_hide_solutech_menu[ev];
+    for (var ev = 0; ev < events_that_doesnt_hide_clm_menu.length; ev++) {
+      var name = events_that_doesnt_hide_clm_menu[ev];
 
       if (name in options) {
         setupListener(this.map, name);
@@ -533,8 +533,8 @@ var GMaps = (function(global) {
         options.rightclick.apply(this, [e]);
       }
 
-      if(window.solutech_menu[self.el.id]['map'] != undefined) {
-        self.buildsolutechMenu('map', e);
+      if(window.clm_menu[self.el.id]['map'] != undefined) {
+        self.buildclmMenu('map', e);
       }
     });
 
@@ -843,8 +843,8 @@ GMaps.prototype.createMarker = function(options) {
       options.rightclick.apply(this, [e]);
     }
 
-    if (window.solutech_menu[self.el.id]['marker'] != undefined) {
-      self.buildsolutechMenu('marker', e);
+    if (window.clm_menu[self.el.id]['marker'] != undefined) {
+      self.buildclmMenu('marker', e);
     }
   });
 
@@ -993,7 +993,7 @@ GMaps.prototype.drawOverlay = function(options) {
     
     var panes = this.getPanes(),
         overlayLayer = panes[options.layer],
-        stop_overlay_events = ['solutechmenu', 'DOMMouseScroll', 'dblclick', 'mousedown'];
+        stop_overlay_events = ['clmmenu', 'DOMMouseScroll', 'dblclick', 'mousedown'];
 
     overlayLayer.appendChild(el);
 
@@ -2145,12 +2145,12 @@ GMaps.prototype.createPanorama = function(streetview_options) {
 };
 
 GMaps.createPanorama = function(options) {
-  var el = getElementById(options.el, options.solutech);
+  var el = getElementById(options.el, options.clm);
 
   options.position = new google.maps.LatLng(options.lat, options.lng);
 
   delete options.el;
-  delete options.solutech;
+  delete options.clm;
   delete options.lat;
   delete options.lng;
 

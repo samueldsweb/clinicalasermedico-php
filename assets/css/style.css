@@ -473,7 +473,7 @@ a{
      transition: .5s;
 }
 /* THEME UNIT TEST CSS */
- .tag-sticky-2 .solutech-single-blog{
+ .tag-sticky-2 .clm-single-blog{
      border:1px solid #0c5adb;
 }
  .post_reply ul, .blog-content ul, .single-blog-content ul {
@@ -5274,7 +5274,7 @@ a{
  .portfolio-details-box .prots-contentg ul{
      margin-left: 0px;
 }
- .portfolio-details-box .solutech-single-icon-inner {
+ .portfolio-details-box .clm-single-icon-inner {
      text-align: left;
 }
  .pr-title{
@@ -5287,31 +5287,31 @@ a{
      bottom: -40px;
 }
 /*== Title Css ==*/
- .solutech_content{
+ .clm_content{
 }
- .solutech_content p{
+ .clm_content p{
      padding-top: 10px;
 }
- .witr_6 .solutech_content p, .witr_5 .solutech_content p{
+ .witr_6 .clm_content p, .witr_5 .clm_content p{
      width: 75%;
      margin: auto;
 }
- .solutech_content h5{
+ .clm_content h5{
      padding-bottom:7px;
      font-size: 18px;
 }
- .solutech_content h2, .solutech_content h3{
+ .clm_content h2, .clm_content h3{
      font-size: 35px;
      padding:4px 0px;
 }
- .solutech_content p span, .solutech_content h5 span, .solutech_content h2 span, .solutech_content h3 span{
+ .clm_content p span, .clm_content h5 span, .clm_content h2 span, .clm_content h3 span{
      color:#0c5adb;
 }
 /*======== Button css ==========*/
- .solutech_button{
+ .clm_button{
      margin-top: 45px;
 }
- .solutech_button a {
+ .clm_button a {
      background: #0c5adb;
      padding: 18px 35px;
      color: #fff;
@@ -5322,11 +5322,11 @@ a{
      font-weight: 500;
      border-radius:30px;
 }
- .solutech_button a:hover{
+ .clm_button a:hover{
      background: #00247e;
      color: #fff;
 }
- .solutech_button a i{
+ .clm_button a i{
      margin-left: 10px;
 }
  .witr_b9 {
@@ -5345,29 +5345,29 @@ a{
      display: flex;
      align-items: center;
 }
- .solutech_content.col_content_width_100{
+ .clm_content.col_content_width_100{
      width: 100%;
 }
- .solutech_button.no_margin {
+ .clm_button.no_margin {
      margin-top: 0px;
      width: 60%;
 }
- solutech_button.no_margin a{
+ clm_button.no_margin a{
      margin-right: 0px;
 }
 /*============= video icon ==============*/
- .solutech_video_inner{
+ .clm_video_inner{
      position: relative;
      text-align: center;
      top: 60px;
 }
- .solutech_video_inner h4{
+ .clm_video_inner h4{
      margin-top:20px;
 }
- .solutech_video_inner a{
+ .clm_video_inner a{
      position:relative;
 }
- .solutech_video_inner a::before{
+ .clm_video_inner a::before{
      content:"";
      position: absolute;
      top: 35%;
@@ -5379,7 +5379,7 @@ a{
      box-shadow: 0 0 0 0 #0c5adb;
      animation: witr_video_ripple 2s infinite;
 }
- .solutech_video_inner i {
+ .clm_video_inner i {
      color: #fff ;
      height: 70px;
      width: 70px;
@@ -5415,7 +5415,7 @@ a{
  .witr_col_image img {
      width: 100%;
 }
- .solutech_video11{
+ .clm_video11{
      position:absolute;
      top:50%;
      left:50%;
@@ -5443,11 +5443,11 @@ a{
      background:#0c5adb;
      transition:.5s;
 }
- .w_apps_button a:hover span.isolutech, .w_apps_button a:hover span.spaninner{
+ .w_apps_button a:hover span.iclm, .w_apps_button a:hover span.spaninner{
      color:#fff;
      transition:.5s;
 }
- span.isolutech {
+ span.iclm {
      float: left;
      font-size: 25px;
      margin-right: 15px;
@@ -6359,7 +6359,7 @@ a{
      overflow: hidden;
      box-shadow: 0px 0px 5px #ddd;
 }
- .solutech-tab{
+ .clm-tab{
      overflow: hidden;
      clear: both;
      background: #000;
@@ -6367,20 +6367,20 @@ a{
  .static_tab_area .nav-tabs {
      border: none;
 }
- .solutech-tab li {
+ .clm-tab li {
      display: inline-block;
      list-style: none;
      background: #000;
      float: left;
      overflow: hidden;
 }
- .solutech-tab li a{
+ .clm-tab li a{
      padding: 15px 30px;
      display: block;
      border-right: 1px solid #ddd;
      color: #fff;
 }
- .solutech-tab li a.active, .solutech-tab li a:hover {
+ .clm-tab li a.active, .clm-tab li a:hover {
      background: #0c5adb;
      color: #fff;
 }
@@ -6446,7 +6446,7 @@ a{
      overflow: hidden;
      padding: 15px 0;
 }
- .solutech_single_event {
+ .clm_single_event {
      border-bottom: 1px solid #ddd;
      margin: 0 10px;
      padding-bottom: 12px;
@@ -6454,16 +6454,16 @@ a{
      clear: both;
      overflow: hidden;
 }
- .solutech_single_event:last-child{
+ .clm_single_event:last-child{
      border-bottom: 0px solid #ddd;
 }
- .solutech_event_thumb {
+ .clm_event_thumb {
      float: left;
      margin-right: 15px;
 }
  .event_content_area{
 }
- .solutech_single_event:hover .event_page_title h2 a{
+ .clm_single_event:hover .event_page_title h2 a{
      color: #0c5adb;
 }
  .event_page_title h2 a{
@@ -6474,10 +6474,10 @@ a{
  .event_pcontent p{
      margin-bottom: 5px;
 }
- .solutech_event_icon span{
+ .clm_event_icon span{
      margin-right: 10px;
 }
- .solutech_event_icon span i{
+ .clm_event_icon span i{
      margin-right: 5px;
 }
 /*========= tab 2 area ===========*/
@@ -6485,7 +6485,7 @@ a{
      background: #182C44;
      overflow: hidden;
 }
- .solutech_tab{
+ .clm_tab{
     /* overflow: hidden;
      clear: both;
      background: #000;
@@ -6494,7 +6494,7 @@ a{
  .tab_area2 .nav-tabs {
      border: none;
 }
- .solutech_tab li {
+ .clm_tab li {
      display: inline-block;
      list-style: none;
      background: #000;
@@ -6502,14 +6502,14 @@ a{
      overflow: hidden;
      margin-right: 15px;
 }
- .solutech_tab li a{
+ .clm_tab li a{
      padding: 15px 30px;
      display: block;
     /* border-right: 1px solid #ddd;
      */
      color: #fff;
 }
- .solutech_tab li a.active, .solutech_tab li a:hover {
+ .clm_tab li a.active, .clm_tab li a:hover {
      background: #0c5adb;
      color: #fff;
 }
@@ -7098,14 +7098,14 @@ a{
  .clear_both {
      clear: both;
 }
-/*===================== solutech HEADING TOP AREA CSS =========================*/
+/*===================== clm HEADING TOP AREA CSS =========================*/
 /* LEFT RIGHT CSS */
  .em40_header_area_main {
 }
  .em40_header_area_main.hdisplay_none {
      display: none;
 }
- .solutech-header-top {
+ .clm-header-top {
      background: #0c5adb;
      padding: 10px 0;
      padding-right: 200px;
@@ -7246,7 +7246,7 @@ a{
      width: 200px;
      margin: 0 auto;
 }
-/*===================== END solutech HEADING TOP AREA CSS =========================*/
+/*===================== END clm HEADING TOP AREA CSS =========================*/
 /*======================== EM CREATIVE HEADER =========================*/
  .em_creative_header {
      background: #f9f9f9 none repeat scroll 0% 0;
@@ -7397,13 +7397,13 @@ a{
     /* 
 }
  */
- .no-logo-sr .solutech_menu ul {
+ .no-logo-sr .clm_menu ul {
      text-align: center;
 }
- .no-logo-sr .solutech_menu ul li {
+ .no-logo-sr .clm_menu ul li {
      text-align: left;
 }
-/*======================= solutech HEADING NAV AREA CSS ========================*/
+/*======================= clm HEADING NAV AREA CSS ========================*/
  .mean-container .mean-bar {
      padding: 0;
 }
@@ -7414,7 +7414,7 @@ a{
  .main_menu_div {
      position: relative;
 }
- .solutech_nav_area {
+ .clm_nav_area {
      background: #fff none repeat scroll 0% 0;
     /* box-shadow: 0 0 65px 0 #00000008;
      */
@@ -7430,15 +7430,15 @@ a{
      display: inline-block;
      padding: 1rem;
 }
- .solutech_menu {
+ .clm_menu {
 }
 /* MENU CSS */
- .solutech_menu ul {
+ .clm_menu ul {
      text-align: right;
      list-style: none;
 }
 /* witr_h_h18 menu css */
- .witr_shop_sc .solutech_menu ul {
+ .witr_shop_sc .clm_menu ul {
      text-align: left;
 }
  .search_popup_button, .tx_mmenu_together{
@@ -7523,11 +7523,11 @@ a{
  .prefix .main_menu_header_address_text h3, .prefix .main_menu_header_address_text h4 a, .prefix .main_menu_header_icon i {
      color: #fff;
 }
- .solutech_menu > ul > li {
+ .clm_menu > ul > li {
      display: inline-block;
      position: relative;
 }
- .solutech_menu > ul > li > a {
+ .clm_menu > ul > li > a {
      display: block;
      margin: 38px 17px;
      transition: .5s;
@@ -7538,7 +7538,7 @@ a{
      text-transform: uppercase;
      font-family: 'Barlow Condensed', sans-serif;
 }
- .solutech_menu > ul > li > a:before, .solutech_menu > ul > li.current > a:before {
+ .clm_menu > ul > li > a:before, .clm_menu > ul > li.current > a:before {
      background: #ffb600 none repeat scroll 0% 0;
      bottom: -7px;
      content: "";
@@ -7554,26 +7554,26 @@ a{
      width: 15%;
      display:none;
 }
- .heading_style_2 .solutech_menu > ul > li > a {
+ .heading_style_2 .clm_menu > ul > li > a {
      color: #fff;
 }
- .heading_style_3 .solutech_menu > ul > li > a {
+ .heading_style_3 .clm_menu > ul > li > a {
      color: #fff;
 }
- .heading_style_4 .solutech_menu > ul > li > a {
+ .heading_style_4 .clm_menu > ul > li > a {
      color: #fff;
 }
- .heading_style_5 .solutech_menu > ul > li > a {
+ .heading_style_5 .clm_menu > ul > li > a {
      color: #fff;
 }
- .solutech_menu ul li:last-child a {
+ .clm_menu ul li:last-child a {
      margin-right: 0px;
 }
- .solutech_menu > ul > li.current > a, .solutech_menu > ul > li:hover > a, .creative_header_menu > ul > li:hover > a {
+ .clm_menu > ul > li.current > a, .clm_menu > ul > li:hover > a, .creative_header_menu > ul > li:hover > a {
      color: #0c5adb;
      background-color: transparent;
 }
- .solutech_menu > ul > li:hover > a:before, .solutech_menu > ul > li.current > a:before {
+ .clm_menu > ul > li:hover > a:before, .clm_menu > ul > li.current > a:before {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
@@ -7596,7 +7596,7 @@ a{
  .transprent-menu.menu4 {
      position: relative;
 }
- .transprent-menu .solutech_nav_area {
+ .transprent-menu .clm_nav_area {
      left: 0;
      right: 0;
      top: 0;
@@ -7606,17 +7606,17 @@ a{
      transition: .5s;
      position: absolute;
 }
- .solutech_nav_area.postfix {
+ .clm_nav_area.postfix {
      -webkit-transition: .3s;
      transition: .3s;
 }
- .solutech_nav_area.prefix, .hbg2 {
+ .clm_nav_area.prefix, .hbg2 {
      background:#153d7a;
 }
- .solutech_nav_area.prefix .solutech_menu > ul > li > a {
+ .clm_nav_area.prefix .clm_menu > ul > li > a {
      color:#fff;
 }
- .solutech_nav_area.prefix .solutech_menu > ul > li.current > a {
+ .clm_nav_area.prefix .clm_menu > ul > li.current > a {
      color: #0c5adb;
 }
 /* LOGO LEFT RIGHT CSS */
@@ -7628,27 +7628,27 @@ a{
  .logo-right .logo {
      text-align: right;
 }
- .logo-right .solutech_menu > ul {
+ .logo-right .clm_menu > ul {
      text-align: left;
 }
- .logo-right .solutech_menu > ul > li:first-child a {
+ .logo-right .clm_menu > ul > li:first-child a {
      padding-left: 0px;
 }
- .logo-right .solutech_menu > ul > li:last-child a {
+ .logo-right .clm_menu > ul > li:last-child a {
      padding-right: auto;
 }
 /* logo top */
  .logo-top .logo {
      text-align: center;
 }
- .logo-top .solutech_menu > ul {
+ .logo-top .clm_menu > ul {
      text-align: center;
 }
- .logo-top > .solutech_menu > ul > li:last-child a {
+ .logo-top > .clm_menu > ul > li:last-child a {
      padding-right: auto;
 }
 /* sub menu style */
- .solutech_menu ul .sub-menu {
+ .clm_menu ul .sub-menu {
      position: absolute;
      left: 0;
      top: 130%;
@@ -7663,17 +7663,17 @@ a{
      opacity: 0;
      visibility: hidden;
 }
- .solutech_menu ul li:hover > .sub-menu {
+ .clm_menu ul li:hover > .sub-menu {
      transition: .5s;
      opacity: 1;
      visibility: visible;
      top: 100%;
      z-index: 9;
 }
- .solutech_menu ul .sub-menu li {
+ .clm_menu ul .sub-menu li {
      position: relative;
 }
- .solutech_menu ul .sub-menu li a {
+ .clm_menu ul .sub-menu li a {
      display: block;
      margin: 0;
      margin-bottom: 7px;
@@ -7685,28 +7685,28 @@ a{
      visibility: inherit !important;
      font-family: 'Barlow Condensed', sans-serif;
 }
- .solutech_menu ul .sub-menu li:hover > a, .solutech_menu ul .sub-menu .sub-menu li:hover > a, .solutech_menu ul .sub-menu .sub-menu .sub-menu li:hover > a, .solutech_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
+ .clm_menu ul .sub-menu li:hover > a, .clm_menu ul .sub-menu .sub-menu li:hover > a, .clm_menu ul .sub-menu .sub-menu .sub-menu li:hover > a, .clm_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
      color: #0c5adb;
 }
 /* sub menu 2 */
- .solutech_menu ul .sub-menu .sub-menu {
+ .clm_menu ul .sub-menu .sub-menu {
      left: 100%;
      top: 130%;
      opacity: 0;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
      visibility: hidden;
 }
- .solutech_menu ul .sub-menu li:hover > .sub-menu {
+ .clm_menu ul .sub-menu li:hover > .sub-menu {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
      visibility: visible;
      top: 0%;
 }
 /* sub menu 3 */
- .solutech_menu ul .sub-menu .sub-menu li {
+ .clm_menu ul .sub-menu .sub-menu li {
      position: relative;
 }
- .solutech_menu ul .sub-menu .sub-menu .sub-menu {
+ .clm_menu ul .sub-menu .sub-menu .sub-menu {
      right: 100%;
      left: auto;
      top: 130%;
@@ -7714,19 +7714,19 @@ a{
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
      visibility: hidden;
 }
- .solutech_menu ul .sub-menu .sub-menu li:hover > .sub-menu {
+ .clm_menu ul .sub-menu .sub-menu li:hover > .sub-menu {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
      visibility: visible;
      top: 0%;
 }
 /* sub menu 4 */
- .solutech_menu ul .sub-menu .sub-menu .sub-menu li {
+ .clm_menu ul .sub-menu .sub-menu .sub-menu li {
      position: relative;
 }
- .solutech_menu ul .sub-menu .sub-menu .sub-menu .sub-menu {
+ .clm_menu ul .sub-menu .sub-menu .sub-menu .sub-menu {
 }
- .solutech_menu ul .sub-menu .sub-menu .sub-menu li:hover > .sub-menu {
+ .clm_menu ul .sub-menu .sub-menu .sub-menu li:hover > .sub-menu {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
      visibility: visible;
@@ -7736,14 +7736,14 @@ a{
  .logged-in .trp_nav_area {
      top: 32px;
 }
- .logged-in .transprent-menu .solutech_nav_area.prefix {
+ .logged-in .transprent-menu .clm_nav_area.prefix {
      top: 32px;
 }
  .logged-in .trp_nav_area.hbg2 {
      top: 32px;
 }
 /* has menu icon */
- .solutech-main-menu .menu-item-has-children > a:after {
+ .clm-main-menu .menu-item-has-children > a:after {
      margin-left: 5px;
      content: "\f107";
      font-family: FontAwesome !important;
@@ -7753,7 +7753,7 @@ a{
      opacity: .5;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 }
- .solutech-main-menu .menu-item-has-children .menu-item-has-children> a:after {
+ .clm-main-menu .menu-item-has-children .menu-item-has-children> a:after {
      margin-left: 8px;
      content: "\f105";
 }
@@ -7779,17 +7779,17 @@ a{
      color: #0c5adb;
 }
 /* logo sticky */
- .solutech-main-menu .logo a.main_sticky_main_l {
+ .clm-main-menu .logo a.main_sticky_main_l {
      display: block;
 }
- .solutech-main-menu .logo a.main_sticky_l {
+ .clm-main-menu .logo a.main_sticky_l {
      display: none;
 }
 /* logo pre */
- .solutech-main-menu .prefix .logo a.main_sticky_main_l {
+ .clm-main-menu .prefix .logo a.main_sticky_main_l {
      display: none;
 }
- .solutech-main-menu .prefix .logo a.main_sticky_l {
+ .clm-main-menu .prefix .logo a.main_sticky_l {
      display: block;
 }
  .menu-height-space {
@@ -7802,12 +7802,12 @@ a{
  .creative_logo_thumb .logo a {
      margin-top: 0;
 }
-/*======================= END solutech HEADING NAV AREA CSS ========================*/
-/*===================== solutech BLOG AREA CSS =========================*/
- .solutech-blog-area {
+/*======================= END clm HEADING NAV AREA CSS ========================*/
+/*===================== clm BLOG AREA CSS =========================*/
+ .clm-blog-area {
      padding: 90px 0 100px;
 }
- .solutech-single-blog {
+ .clm-single-blog {
      background-color: #fff;
      box-shadow: 0px 0px 10px 0px rgba(148,146,245,0.2);
      margin-bottom: 30px;
@@ -7816,23 +7816,23 @@ a{
      -webkit-transition: all 0.3s ease-in-out 0s;
      transition: all 0.3s ease-in-out 0s;
 }
- .solutech-single-blog.solutech-lt {
+ .clm-single-blog.clm-lt {
      text-align: left;
 }
- .solutech-blog-index.blog-area.solutech-blog-area, .solutech-blog-area.solutech-blog-archive {
+ .clm-blog-index.blog-area.clm-blog-area, .clm-blog-area.clm-blog-archive {
      padding: 100px 0 100px;
 }
 /* BLOG THUMB CSS */
- .solutech-blog-thumb {
+ .clm-blog-thumb {
      overflow: hidden;
 }
- .solutech-blog-thumb a {
+ .clm-blog-thumb a {
      position: relative;
 }
- .solutech-blog-thumb a {
+ .clm-blog-thumb a {
      display: block;
 }
- .solutech-blog-thumb a:before {
+ .clm-blog-thumb a:before {
      content: "";
      left: 0px;
      top: 0px;
@@ -7848,7 +7848,7 @@ a{
      z-index: 999;
      transition: .5s;
 }
- .solutech-blog-thumb img {
+ .clm-blog-thumb img {
      transition: .5s;
      display: block;
 }
@@ -7870,48 +7870,48 @@ a{
  .blog-content p {
 }
 /* BLOG POST META CSS */
- .solutech-blog-meta {
+ .clm-blog-meta {
      margin-bottom: 0;
      margin-top: 0;
      width: 100%;
 }
- .solutech-blog-meta:after {
+ .clm-blog-meta:after {
      display: block;
      clear: both;
      content: "";
 }
- .solutech-blog-meta a {
+ .clm-blog-meta a {
 }
 /* BLOG POST META LEFT CSS */
 /* left style 1 */
- .solutech-blog-meta-left {
+ .clm-blog-meta-left {
      padding: 0 0 9px;
 }
- .solutech-blog-meta-left a, .solutech-blog-meta-left span {
+ .clm-blog-meta-left a, .clm-blog-meta-left span {
      color: #888888;
      font-size: 16px;
      margin-right: 5px;
      -webkit-transition: all 0.3s ease 0s;
      transition: all 0.3s ease 0s;
 }
- .solutech-blog-meta-left a:hover, .solutech-blog-meta-left span:hover {
+ .clm-blog-meta-left a:hover, .clm-blog-meta-left span:hover {
      color: #0c5adb;
 }
- .solutech-blog-meta-left i {
+ .clm-blog-meta-left i {
      color: #0c5adb;
      margin-right: 5px;
 }
 /* BLOG POST META RIGHT CSS */
- .solutech-blog-meta-right {
+ .clm-blog-meta-right {
      float: right;
      padding: 0px 0;
 }
- .solutech-blog-meta-right a, .solutech-blog-meta-right span {
+ .clm-blog-meta-right a, .clm-blog-meta-right span {
      font-size: 12px;
      color: #454545;
      margin-left: 5px;
 }
- .solutech-blog-meta-right i {
+ .clm-blog-meta-right i {
      margin-right: 5px;
 }
 /* blog readmore */
@@ -7934,57 +7934,57 @@ a{
      color: #fff;
 }
 /* blog hover */
- .solutech-single-blog:hover .solutech-blog-thumb a:before {
+ .clm-single-blog:hover .clm-blog-thumb a:before {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
- .solutech-single-blog:hover .solutech-blog-thumb img {
+ .clm-single-blog:hover .clm-blog-thumb img {
      -webkit-transform: scale(1.1);
      transform: scale(1.1);
 }
-/*======================== EMD solutech BLOG AREA CSS =========================*/
-/*======================== solutech BLOG DETAILS AREA CSS =========================*/
- .solutech-single-blog-details {
+/*======================== EMD clm BLOG AREA CSS =========================*/
+/*======================== clm BLOG DETAILS AREA CSS =========================*/
+ .clm-single-blog-details {
      background: #fff;
      margin-bottom: 40px;
 }
- .em-theme-main-page .solutech-single-blog-details {
+ .em-theme-main-page .clm-single-blog-details {
      padding: 30px 30px 10px;
 }
- .solutech-single-blog-details-inner {
+ .clm-single-blog-details-inner {
      padding: 38px 45px 45px;
      box-shadow: 0 3px 19px rgb(0 0 0 / 8%);
      border-radius: 0 0 10px 10px;
 }
- .solutech-single-blog--thumb {
+ .clm-single-blog--thumb {
 }
- .solutech-single-blog--thumb a {
+ .clm-single-blog--thumb a {
 }
- .solutech-single-blog--thumb img {
+ .clm-single-blog--thumb img {
      width: 100%;
 }
- .solutech-single-blog--thumb {
+ .clm-single-blog--thumb {
 }
- .solutech-single-blog-title h2 {
+ .clm-single-blog-title h2 {
      padding: 0;
      margin-top: 0;
      margin-bottom: 8px;
 }
- .solutech-single-blog-details .solutech-blog-meta {
+ .clm-single-blog-details .clm-blog-meta {
      padding: 0px;
      margin: 0px;
 }
- .solutech-single-blog-details .solutech-blog-meta-right, .solutech-single-blog-details .solutech-blog-meta-left {
+ .clm-single-blog-details .clm-blog-meta-right, .clm-single-blog-details .clm-blog-meta-left {
      padding: 0px 0 10px 0;
 }
- .solutech-blog-social {
+ .clm-blog-social {
      margin-bottom: 25px;
      margin-top: 25px;
 }
- .solutech-single-icon-inner {
+ .clm-single-icon-inner {
      text-align: center;
 }
- .solutech-single-icon-inner a {
+ .clm-single-icon-inner a {
      border: 1px solid #e6e6e6;
      color: #17161a;
      display: inline-block;
@@ -7996,17 +7996,17 @@ a{
      width: 40px;
      border-radius: 5px;
 }
- .solutech-single-icon-inner a:hover {
+ .clm-single-icon-inner a:hover {
      background: #0c5adb;
      border-color: #0c5adb;
      color: #fff;
 }
- .solutech-single-icon-inner a i {
+ .clm-single-icon-inner a i {
 }
  .single-blog-content ul {
      padding-bottom: 10px;
 }
-/*======================== solutech COMMENT AREA CSS =========================*/
+/*======================== clm COMMENT AREA CSS =========================*/
 /* POST REPLY CSS */
  .post_comment {
      border: 1px solid #f1f1f1;
@@ -8139,7 +8139,7 @@ a{
  .comment_field .input-field input, .comment_field .textarea-field textarea {
      color: #555555;
 }
- .solutech_btn {
+ .clm_btn {
      background: #0c5adb;
      border: 0;
      display: inline-block;
@@ -8150,7 +8150,7 @@ a{
      transition: .5s;
      color: #fff;
 }
- .solutech_btn:hover {
+ .clm_btn:hover {
      background: #00247e;
 }
  .em-theme-main-page .commment_title h3 {
@@ -8179,7 +8179,7 @@ a{
      margin-top: 40px;
      clear: both;
 }
-/*======================== solutech unittest =========================*/
+/*======================== clm unittest =========================*/
  .blog-page-title h2 {
      display: block;
      font-size: 22px;
@@ -8251,7 +8251,7 @@ a{
  .single-blog-content h6 {
      font-size: 17px;
 }
-/*======================== solutech PAGINATION AREA CSS =========================*/
+/*======================== clm PAGINATION AREA CSS =========================*/
  .paginations {
      text-align: center;
      margin-top: 20px;
@@ -8271,7 +8271,7 @@ a{
      border-color: #0c5adb;
      color: #fff;
 }
- .paginations .page-numbers, .solutech-blog-area .page-numbers, .witr_shop_area .page-numbers{
+ .paginations .page-numbers, .clm-blog-area .page-numbers, .witr_shop_area .page-numbers{
      box-shadow:none;
      background: 0% 0;
 }
@@ -8288,11 +8288,11 @@ a{
  a.page-numbers{
      box-shadow: 0 10px 40px 0 rgba(50,65,141,.12) !important;
 }
- .paginations .page-numbers, .solutech-blog-area .page-numbers, .witr_shop_area .page-numbers{
+ .paginations .page-numbers, .clm-blog-area .page-numbers, .witr_shop_area .page-numbers{
      box-shadow:none;
      background: 0% 0;
 }
-/*======================== solutech BREADCRUMB AREA CSS =========================*/
+/*======================== clm BREADCRUMB AREA CSS =========================*/
  .breadcumb-blog-area {
      padding: 60px 0 65px;
      background-color: #f7f7f7;
@@ -8354,8 +8354,8 @@ a{
  .ccase {
      text-transform: capitalize;
 }
-/*======================== END solutech BREADCRUMB AREA CSS =========================*/
-/*======================== solutech 404 AREA CSS =========================*/
+/*======================== END clm BREADCRUMB AREA CSS =========================*/
+/*======================== clm 404 AREA CSS =========================*/
  .not-found-area {
      background-color: #fff;
      background-position: center top;
@@ -8397,7 +8397,7 @@ a{
      text-decoration: underline;
 }
 /* search error */
- .solutech-search-page{
+ .clm-search-page{
      background:#fff;
 }
  .search-error .search input {
@@ -8422,8 +8422,8 @@ a{
      height: 54px;
      border: 1px solid #ddd;
 }
-/*======================== END solutech 404 AREA CSS =========================*/
-/*======================== solutech FOOTER TOP AREA CSS =========================*/
+/*======================== END clm 404 AREA CSS =========================*/
+/*======================== clm FOOTER TOP AREA CSS =========================*/
  .top-address-area {
      background: #111111;
      padding: 90px 0px 85px;
@@ -8462,7 +8462,7 @@ a{
      margin-top: 30px;
      margin-bottom: 27px;
 }
-/*======================== solutech FOOTER TOP AREA CSS =========================*/
+/*======================== clm FOOTER TOP AREA CSS =========================*/
  .footer-top {
      background: #1b1919 none repeat scroll 0% 0;
      padding: 100px 0;
@@ -8524,7 +8524,7 @@ a{
      text-align: center;
 }
 /*======================== END FOOTER TOP AREA CSS =========================*/
-/*======================== solutech FOOTER MIDDLE AREA CSS =========================*/
+/*======================== clm FOOTER MIDDLE AREA CSS =========================*/
  .witrfm_area {
      background-repeat: no-repeat;
      background-position: center center;
@@ -8607,7 +8607,7 @@ a{
      width: 100%;
 }
 /*======================== END FOOTER middle AREA CSS =========================*/
-/*======================== solutech FOOTER BOTTOM AREA CSS =========================*/
+/*======================== clm FOOTER BOTTOM AREA CSS =========================*/
  .footer-bottom {
      padding: 26px 0 24px;
      position:relative;
@@ -9011,7 +9011,7 @@ a{
          right:100%;
     }
 }
-/*===================== solutech feature SECTION =========================*/
+/*===================== clm feature SECTION =========================*/
  .em-feature {
      position: relative;
      transition: all 0.5s ease 0s;
@@ -9234,7 +9234,7 @@ a{
      color: #fff;
      background: #0c5adb;
 }
-/*===================== END solutech SERVICE CSS =========================*/
+/*===================== END clm SERVICE CSS =========================*/
  .all_color_service {
      text-align: left;
 }
@@ -9597,7 +9597,7 @@ a{
      background:#0c5adb;
      color:#fff;
 }
-/*===================== solutech FUN FACT AREA CSS =========================*/
+/*===================== clm FUN FACT AREA CSS =========================*/
  .single_counter {
      position:relative;
      padding: 32px 0;
@@ -9895,8 +9895,8 @@ a{
  .recent-Review-area .owl-dot{
      border-color:#fff;
 }
-/*===================== solutech adn blog css =========================*/
- .solutech-single-blog_adn {
+/*===================== clm adn blog css =========================*/
+ .clm-single-blog_adn {
      background-color: #fff;
      box-shadow: 0px 0px 30px 0px rgba(148,146,245,0.2);
      overflow: hidden;
@@ -9908,17 +9908,17 @@ a{
  .blog_adn_thumb_inner{
      position:relative;
 }
- .solutech-blog-thumb_adn {
+ .clm-blog-thumb_adn {
      overflow: hidden;
      position:relative;
 }
- .solutech-blog-thumb_adn a {
+ .clm-blog-thumb_adn a {
      position: relative;
 }
- .solutech-blog-thumb_adn a {
+ .clm-blog-thumb_adn a {
      display: block;
 }
- .solutech-blog-thumb_adn:before {
+ .clm-blog-thumb_adn:before {
      content: "";
      left: 0px;
      top: 0px;
@@ -9934,7 +9934,7 @@ a{
      z-index: 999;
      transition: .5s;
 }
- .solutech-blog-thumb_adn img {
+ .clm-blog-thumb_adn img {
      display: block;
      -webkit-transition: 6s;
      transition: 6s;
@@ -10041,35 +10041,35 @@ a{
  .witr_ablog_content span i{
      margin-right:3px;
 }
- .witr_ablog_7:hover .solutech-blog-thumb_adn:before{
+ .witr_ablog_7:hover .clm-blog-thumb_adn:before{
      opacity:1;
 }
 /* BLOG POST META CSS */
- .solutech-blog-meta_adn {
+ .clm-blog-meta_adn {
      margin-bottom: 0px;
      margin-top: 0;
      width: 100%;
 }
- .solutech-blog-meta_adn:after {
+ .clm-blog-meta_adn:after {
      display: block;
      clear: both;
      content: "";
 }
- .solutech-blog-meta_adn a {
+ .clm-blog-meta_adn a {
 }
 /* BLOG POST META LEFT CSS */
 /* left style 1 */
- .solutech-blog-meta-left_adn {
+ .clm-blog-meta-left_adn {
      padding: 0 0 8px;
 }
- .solutech-blog-meta-left_adn a, .solutech-blog-meta-left_adn span {
+ .clm-blog-meta-left_adn a, .clm-blog-meta-left_adn span {
      color: #454545;
      font-size: 12px;
      font-weight: 400;
      margin-right: 5px;
      text-transform: uppercase;
 }
- .solutech-blog-meta-left_adn a, .solutech-blog-meta-left_adn span {
+ .clm-blog-meta-left_adn a, .clm-blog-meta-left_adn span {
      color: #888888;
      font-size: 12px;
      margin-right: 5px;
@@ -10077,10 +10077,10 @@ a{
      -webkit-transition: .3s;
      transition: .3s;
 }
- .solutech-blog-meta-left_adn a:hover, .solutech-blog-meta-left_adn span:hover {
+ .clm-blog-meta-left_adn a:hover, .clm-blog-meta-left_adn span:hover {
      color: #0c5adb;
 }
- .solutech-blog-meta-left_adn i {
+ .clm-blog-meta-left_adn i {
      margin-right: 5px;
      color: #0c5adb;
 }
@@ -10088,16 +10088,16 @@ a{
      margin-bottom: 8px;
 }
 /* BLOG POST META RIGHT CSS */
- .solutech-blog-meta-right_adn {
+ .clm-blog-meta-right_adn {
      padding: 7px 0;
      text-transform: capitalize;
 }
- .solutech-blog-meta-right_adn a, .solutech-blog-meta-right_adn span {
+ .clm-blog-meta-right_adn a, .clm-blog-meta-right_adn span {
      font-size: 12px;
      color: #454545;
      margin-left: 5px;
 }
- .solutech-blog-meta-right_adn i {
+ .clm-blog-meta-right_adn i {
      margin-right: 5px;
 }
 /* blog readmore */
@@ -10121,17 +10121,17 @@ a{
      color: #fff;
 }
 /* blog hover */
- .solutech-single-blog_adn:hover .solutech-blog-thumb_adn::before, .solutech-single-blog_adn:hover .blog_add_icon {
+ .clm-single-blog_adn:hover .clm-blog-thumb_adn::before, .clm-single-blog_adn:hover .blog_add_icon {
      opacity: 1;
      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
- .solutech-single-blog_adn:hover .blog-page-title_adn2 h2{
+ .clm-single-blog_adn:hover .blog-page-title_adn2 h2{
      background: #0c5adbd9;
 }
  .blog_nospace_adn.col-xs-12 {
      padding: 0px;
 }
- .blog_nospace_adn .solutech-single-blog {
+ .blog_nospace_adn .clm-single-blog {
      margin-bottom: 0px;
 }
 /* responsive 320 start */
@@ -10140,7 +10140,7 @@ a{
      body {
          overflow-x: hidden;
     }
-     .solutech-header-top {
+     .clm-header-top {
         /* display: none;
          */
     }
@@ -10371,7 +10371,7 @@ a{
 }
  .blog-page-title h2 {
 }
- .solutech-single-blog-title h2 {
+ .clm-single-blog-title h2 {
 }
  .footer-middle .widget h2 {
      color: #fff;
@@ -10454,7 +10454,7 @@ a{
  .images_area.wittr_car_top_right .slick-dots li {
      display: block;
 }
- .witr_h_h12 .solutech_menu, .witr_h_h13 .solutech_menu{
+ .witr_h_h12 .clm_menu, .witr_h_h13 .clm_menu{
      display: -webkit-box;
      display: -ms-flexbox;
      display: flex;
@@ -10462,7 +10462,7 @@ a{
      -ms-flex-pack: pace-between;
      justify-content: space-between;
 }
- .witr_h_h2 .solutech_menu, .witr_h_h3 .solutech_menu, .witr_h_h4 .solutech_menu, .witr_h_h5 .solutech_menu, .witr_h_h6 .solutech_menu, .witr_h_h7 .solutech_menu, .witr_h_h8 .solutech_menu, .witr_h_h9 .solutech_menu, .witr_h_h10 .solutech_menu, .witr_h_h11 .solutech_menu, .witr_h_h14 .solutech_menu, .witr_h_h17 .solutech_menu {
+ .witr_h_h2 .clm_menu, .witr_h_h3 .clm_menu, .witr_h_h4 .clm_menu, .witr_h_h5 .clm_menu, .witr_h_h6 .clm_menu, .witr_h_h7 .clm_menu, .witr_h_h8 .clm_menu, .witr_h_h9 .clm_menu, .witr_h_h10 .clm_menu, .witr_h_h11 .clm_menu, .witr_h_h14 .clm_menu, .witr_h_h17 .clm_menu {
      display: -webkit-box;
      display: -ms-flexbox;
      display: flex;
@@ -11118,10 +11118,10 @@ a{
      box-shadow: 0px 5px 20px 0px #0c5adb14;
 }
 /* menu new css */
- .logo-right .solutech_menu{
+ .logo-right .clm_menu{
      justify-content: flex-start;
 }
- .logo-top .solutech_menu{
+ .logo-top .clm_menu{
      justify-content: center;
 }
  .ossos .em-quearys-top.msin-menu-search {
@@ -11318,7 +11318,7 @@ a{
      padding-right: 0;
 }
 /* button hover style */
- .feature_btn a, .witr_ser_btnb a, .service-btn > a, a.dtbtn, .witr_btn, .witr_bbtn, .witr_gbtn, .witr_gbbtn, .solutech_button a, .witr_sbtn_s8 a{
+ .feature_btn a, .witr_ser_btnb a, .service-btn > a, a.dtbtn, .witr_btn, .witr_bbtn, .witr_gbtn, .witr_gbbtn, .clm_button a, .witr_sbtn_s8 a{
      border-radius:5px;
      font-size:15px;
      font-weight:600;
@@ -11331,10 +11331,10 @@ a{
  .witr_ser_btnb a:hover{
      color:#0c5adb;
 }
- a.dtbtn:hover, .witr_btn:hover, .solutech_button a:hover{
+ a.dtbtn:hover, .witr_btn:hover, .clm_button a:hover{
      background:#0c5adb;
 }
- a.dtbtn::before, .witr_btn::before, .witr_bbtn::before, .solutech_button a::before, .witr_sbtn_s8 a::before {
+ a.dtbtn::before, .witr_btn::before, .witr_bbtn::before, .clm_button a::before, .witr_sbtn_s8 a::before {
      transition: 0.5s;
      position: absolute;
      width: 30%;
@@ -11346,7 +11346,7 @@ a{
      z-index: -1;
      border-radius:50px;
 }
- a.dtbtn:hover::before, .witr_btn:hover::before, .witr_bbtn:hover::before, .solutech_button a:hover::before, .witr_sbtn_s8 a:hover::before {
+ a.dtbtn:hover::before, .witr_btn:hover::before, .witr_bbtn:hover::before, .clm_button a:hover::before, .witr_sbtn_s8 a:hover::before {
      width: 100%;
      left: 0px;
      border-radius:5px;
@@ -11357,7 +11357,7 @@ a{
  .tx_btn_global_color:hover{
      background:#00247e;
 }
- .witr_h_h2 .solutech_menu, .witr_h_h3 .solutech_menu, .witr_h_h4 .solutech_menu, .witr_h_h5 .solutech_menu, .witr_h_h6 .solutech_menu, .witr_h_h7 .solutech_menu, .witr_h_h8 .solutech_menu, .witr_h_h9 .solutech_menu, .witr_h_h10 .solutech_menu, .witr_h_h11 .solutech_menu, .witr_h_h14 .solutech_menu, .witr_h_h17 .solutech_menu {
+ .witr_h_h2 .clm_menu, .witr_h_h3 .clm_menu, .witr_h_h4 .clm_menu, .witr_h_h5 .clm_menu, .witr_h_h6 .clm_menu, .witr_h_h7 .clm_menu, .witr_h_h8 .clm_menu, .witr_h_h9 .clm_menu, .witr_h_h10 .clm_menu, .witr_h_h11 .clm_menu, .witr_h_h14 .clm_menu, .witr_h_h17 .clm_menu {
      display: -webkit-box;
      display: -ms-flexbox;
      display: flex;
@@ -11415,7 +11415,7 @@ a{
  .about_area .witr_pslide3 .witr_pslide_custom a span {
      background: #0c5adb1F;
 }
- .solutech_serivce_area {
+ .clm_serivce_area {
      padding:95px 0px 70px;
      background:#00247E08;
 }
@@ -11432,7 +11432,7 @@ a{
  .serivce_bg .witr_feature2:hover {
      background: #00247E;
 }
- .solutech_security_area {
+ .clm_clinica_area {
      background-image: url(../images/security-bg-img-1.jpg);
      background-position: center center;
      background-size: cover;
@@ -11441,23 +11441,23 @@ a{
  .white .witr_section_title_inner h1, .white .witr_section_title_inner h2, .white .witr_section_title_inner h3, .white .witr_section_title_inner p {
      color: #fff;
 }
- .solutech_security_area .witr_section_title_inner.text-left p {
+ .clm_clinica_area .witr_section_title_inner.text-left p {
      width: 100%;
      margin-bottom: 35px;
 }
- .solutech_security_area .witr_label {
+ .clm_clinica_area .witr_label {
      color: #FFFFFF;
      font-family: "Teko", Sans-serif;
      font-size: 20px;
      font-weight: 500;
 }
- .solutech_security_area .witr_progress-style2 .witr_percent {
+ .clm_clinica_area .witr_progress-style2 .witr_percent {
      color: #fff;
 }
- .solutech_security_area .witr_progress-style2.progress {
+ .clm_clinica_area .witr_progress-style2.progress {
      margin-bottom: 22px;
 }
- .solutech_security_area .witr_bar_main {
+ .clm_clinica_area .witr_bar_main {
      margin: 10px 0px 22px;
 }
  .button2 .witr_btn{
@@ -11465,7 +11465,7 @@ a{
      margin: 32px 0px 0px 0px;
      border-radius:0px;
 }
- .solutech_team_area{
+ .clm_team_area{
      padding: 95px 0px 70px;
 }
  .em-team.all_color_team {
@@ -11474,7 +11474,7 @@ a{
  .style_team2 .witr_team_thumb4::before {
      background: #F6212100;
 }
- .solutech_team_area .all_color_team span {
+ .clm_team_area .all_color_team span {
      font-family: "Barlow Condensed", Sans-serif;
      font-size: 15px;
      font-weight: 500;
@@ -11482,7 +11482,7 @@ a{
  .team_top{
      margin-top:40px;
 }
- .solutech_counter_area {
+ .clm_counter_area {
      margin-bottom: -140px;
      position: relative;
      z-index: 999;
@@ -11544,7 +11544,7 @@ a{
      font-size: 18px;
      text-transform: uppercase;
 }
- .solutech_work_area .em-service.all_color_service{
+ .clm_work_area .em-service.all_color_service{
      background-image: url(../images/work-img-1.jpg);
      background-position: center center;
      background-repeat: no-repeat;
@@ -11600,7 +11600,7 @@ a{
  .work_top{
      margin-top:56px;
 }
- .solutech_work_area.work_area {
+ .clm_work_area.work_area {
      padding:95px 0px 70px;
 }
  .clm_testimonial_bg_area{
@@ -11674,26 +11674,26 @@ a{
      background:#fff;
      padding:60px 0px 60px 0px;
 }
- .solutech_blog_bg_area{
+ .clm_blog_bg_area{
      padding:92px 0px 100px;
      background:#F9F9F9;
 }
- .solutech_blog_bg_area .witr_blog_con span i{
+ .clm_blog_bg_area .witr_blog_con span i{
      color: #0c5adb;
 }
- .solutech_blog_bg_area .witr_blog_con span a {
+ .clm_blog_bg_area .witr_blog_con span a {
      font-family: "Barlow Condensed", Sans-serif;
      font-size: 16px;
      font-weight: 600;
      text-transform: uppercase;
 }
- .solutech_blog_bg_area .witr_blog_con span{
+ .clm_blog_bg_area .witr_blog_con span{
      font-family: "Barlow Condensed", Sans-serif;
      font-size: 16px;
      font-weight: 600;
      text-transform: uppercase;
 }
- .solutech_blog_bg_area .learn_btn {
+ .clm_blog_bg_area .learn_btn {
      font-family: "Barlow Condensed", Sans-serif;
      font-size: 17px;
      font-weight: 600;
@@ -11727,7 +11727,7 @@ a{
  .blog12_idblog1 .witr_blog_con h2 {
      margin: 10px 0px 10px 0px;
 }
- .solutech_call_to_area{
+ .clm_call_to_area{
      background:#1A191D;
      border-style: solid;
      border-width: 0px 0px 1px 0px;
@@ -11746,7 +11746,7 @@ a{
  .white.all_cal_color h2{
      color:#fff;
 }
- .solutech_call_to_area .solutech_button a {
+ .clm_call_to_area .clm_button a {
      padding: 20px 50px 20px 50px;
      border-radius:0px;
 }
@@ -11772,7 +11772,7 @@ a{
  .witr_brand_area.brand2 {
      margin-top: 0px;
 }
- .solutech_pricing2_area {
+ .clm_pricing2_area {
      padding:95px 0px 70px;
 }
  .pricing_area.all_pricing_color {
@@ -11780,19 +11780,19 @@ a{
      text-align: center;
      margin-bottom:30px;
 }
- .solutech_pricing_bg_area {
+ .clm_pricing_bg_area {
      padding: 100px 0px 70px;
      background: #FAFAFA;
 }
  .prt_content p {
      color: #0c5adb;
 }
- .solutech_pricing_bg_area .pricing-part a.btn {
+ .clm_pricing_bg_area .pricing-part a.btn {
      background: transparent;
      color: #0c5adb;
      border: 1px solid #0c5adb;
 }
- .solutech_pricing_bg_area .pricing-part a.btn:hover {
+ .clm_pricing_bg_area .pricing-part a.btn:hover {
      background: #0c5adb;
      color: #fff;
      border: 1px solid #0c5adb;
@@ -11800,14 +11800,14 @@ a{
  .pricing_top {
      margin-top: 35px;
 }
- .solutech_service3_area {
+ .clm_service3_area {
      padding:0px 0px 70px;
 }
- .solutech_service3_area .witr_service_front_3d, .solutech_service3_area .witr_service_back_3d {
+ .clm_service3_area .witr_service_front_3d, .clm_service3_area .witr_service_back_3d {
      height: 302px;
      border-radius: 5px;
 }
- .solutech_service3_area .witr_service_3d {
+ .clm_service3_area .witr_service_3d {
      margin-bottom: 30px;
 }
  .swiper2 .witr_swiper_height::before {
@@ -11836,17 +11836,17 @@ a{
      border: 1px solid #0c5adb;
      color: #fff;
 }
- .solutech_testimonial2_area {
+ .clm_testimonial2_area {
      padding:100px 0px 70px;
 }
  .testi2_top{
      margin-top:40px;
 }
- .solutech_counter2_area {
+ .clm_counter2_area {
      padding: 100px 0px 70px;
 }
-/* solutech_counter_bg_area */
- .solutech_counter_bg_area {
+/* clm_counter_bg_area */
+ .clm_counter_bg_area {
      padding: 100px 0px 70px;
      background-image: url(../images/blog8.jpg);
      background-position: center center;
@@ -11854,7 +11854,7 @@ a{
      position: relative;
      background-size: cover;
 }
- .solutech_counter_bg_area:before {
+ .clm_counter_bg_area:before {
      position: absolute;
      content: "";
      top: 0;
@@ -11873,10 +11873,10 @@ a{
  .witr_single_counter.white:hover {
      border: 2px solid #0c5adb;
 }
- .solutech_counter3_area.counter_page {
+ .clm_counter3_area.counter_page {
      padding: 100px 0px 60px;
 }
- .solutech_counter3_area .witr_custom_icon i {
+ .clm_counter3_area .witr_custom_icon i {
      color: #00247e;
 }
  .single_faq_bg_area.faq_area{
@@ -11912,10 +11912,10 @@ a{
  .wirr_project_area {
      padding: 90px 0px 85px;
 }
- .solutech_team1_area.team_page {
+ .clm_team1_area.team_page {
      padding:95px 0px 40px;
 }
- .solutech_team_bg_area {
+ .clm_team_bg_area {
      background:#FAFAFA;
      padding: 95px 0px 130px;
 }
@@ -11955,35 +11955,35 @@ a{
      height: 4px;
      margin-bottom: 20px;
 }
- .solutech_testimonial2_area.clients_page {
+ .clm_testimonial2_area.clients_page {
      background: #8f8f8f;
      padding: 100px 0px 120px;
 }
- .solutech_skill2_area {
+ .clm_skill2_area {
      padding: 95px 0px 80px;
 }
- .solutech_skill2_area .witr_single_progress {
+ .clm_skill2_area .witr_single_progress {
      margin-bottom: 20px;
 }
  .skill_top{
      margin-top:30px;
 }
- .solutech_skill_bg .progress {
+ .clm_skill_bg .progress {
      margin-bottom: 20px;
 }
- .solutech_title_area {
+ .clm_title_area {
      padding: 90px 0px 90px;
      background: #898686;
 }
- .solutech_circle_area {
+ .clm_circle_area {
      padding: 95px 0px 67px;
 }
- .solutech_skill_bg {
+ .clm_skill_bg {
      background: #686464;
      padding: 94px 0px 85px;
 }
-/* solutech_alert_area css */
- .solutech_alert_area {
+/* clm_alert_area css */
+ .clm_alert_area {
      padding: 100px 0px 100px;
 }
  .alert_inner_area{
@@ -12021,7 +12021,7 @@ a{
      margin-top: -60px;
      font-size: 25px;
 }
- .solutech_features2_area{
+ .clm_features2_area{
      padding:0px 0px 0px;
 }
  .choose .witr_section_title_inner.text-left p {
@@ -12046,8 +12046,8 @@ a{
  .choose .button2 .witr_btn {
      padding: 15px 50px;
 }
-/* solutech_make_service_area */
- .solutech_make_service_area {
+/* clm_make_service_area */
+ .clm_make_service_area {
      padding:100px 0px 80px;
      background-image: url(../images/blog9.jpg);
      background-position: center center;
@@ -12055,7 +12055,7 @@ a{
      background-size: cover;
      position: relative;
 }
- .solutech_make_service_area:before {
+ .clm_make_service_area:before {
      position: absolute;
      content: "";
      top: 0;
@@ -12099,11 +12099,11 @@ a{
      font-weight: 700;
      color: #fff;
 }
- .solutech_counter3_area {
+ .clm_counter3_area {
      margin-bottom: 0px;
      padding: 0px 0px 100px;
 }
- .solutech_team_area.team_page .all_color_team span {
+ .clm_team_area.team_page .all_color_team span {
      color: #fff;
 }
  .witr_service_back_3d.bekend_bg {
@@ -12130,16 +12130,16 @@ a{
      border-radius: 0px;
      margin-bottom: 30px;
 }
- .solutech_service3_area.service_3d {
+ .clm_service3_area.service_3d {
      padding: 87px 0px 57px;
 }
- .solutech_countdown_area {
+ .clm_countdown_area {
      padding: 0px 0px 100px;
 }
- .solutech_testimonial2_area.home_clm {
+ .clm_testimonial2_area.home_clm {
      padding:0px 0px 70px;
 }
- .security_video_area {
+ .clinica_video_area {
      padding: 0px 0px 100px;
 }
  .video_bg {
@@ -12173,7 +12173,7 @@ a{
  .single_service_page .service-item h3 {
      font-size: 30px;
 }
- .solutech_department_area{
+ .clm_department_area{
      padding:60px 0px 100px;
 }
  .acadmics .departmentList.all_list_color {
@@ -12238,14 +12238,14 @@ a{
      height: 500px;
      border: none;
 }
- .solutech_testimonial2_area.testi_bg {
+ .clm_testimonial2_area.testi_bg {
      padding:100px 0px 70px;
      background: #F9F9F9;
 }
  .faq_page_area {
      padding: 100px 0px 100px;
 }
- .solutech_blog2_area.blog_pag {
+ .clm_blog2_area.blog_pag {
      padding:92px 0px 70px;
 }
  .blog_pag .witr_blog_con span i {
@@ -12265,7 +12265,7 @@ a{
      font-size: 28px;
      font-weight: 500;
 }
- .witr-blog-side-area.blog_sidebar .solutech-single-blog {
+ .witr-blog-side-area.blog_sidebar .clm-single-blog {
      margin-bottom: 30px;
      box-shadow:none;
      border-bottom: 1px solid #e7e7e7;
@@ -12286,7 +12286,7 @@ a{
  .witr-blog-side-area.witr-blog-2side {
      padding: 100px 0px 100px;
 }
-/* solutech_contact2_area */
+/* clm_contact2_area */
  .witr_form_controls2 .witr_field2 .witr_form_field2:nth-child(odd) {
      margin-right: 1%;
 }
@@ -12303,7 +12303,7 @@ a{
      line-height: 43px;
      padding-left: 30px;
 }
- .solutech_contact2_area {
+ .clm_contact2_area {
      padding: 100px 0px 100px;
 }
  .apartment_area {
@@ -12338,7 +12338,7 @@ a{
  .contact2 .btn:hover{
      background:#00247e;
 }
- .solutech_contact3_area {
+ .clm_contact3_area {
      padding: 95px 0px 0px;
      margin-bottom: -160px;
      position: relative;
@@ -12357,7 +12357,7 @@ a{
      padding: 20px 15px 5px 15px;
      margin-bottom:30px;
 }
- .solutech_counter_area.service {
+ .clm_counter_area.service {
      background-image: url(../images/slider-1.jpg);
      background-position: top center;
      background-size: cover;
@@ -12367,17 +12367,17 @@ a{
  .service .em-service2.sleft .em-service-icon {
      float: left;
 }
- .solutech_contact4_area{
+ .clm_contact4_area{
      padding:100px 0px 100px;
 }
- .solutech_contact4_area .witr_con_btn2 .w_btn2 {
+ .clm_contact4_area .witr_con_btn2 .w_btn2 {
      width: 100%;
 }
- .solutech_contact_service_area.service {
+ .clm_contact_service_area.service {
      background: transparent;
      padding:0px 0px 70px;
 }
- .solutech_contact_service2_area{
+ .clm_contact_service2_area{
      padding:95px 0px 0px;
      margin-bottom: -30px;
 }
@@ -12406,7 +12406,7 @@ a{
  .contact6 .service-item:hover i {
      color: #fff;
 }
- .solutech_contact_service2_area.contact6 {
+ .clm_contact_service2_area.contact6 {
      padding: 95px 0px 70px;
      margin-bottom: 0px;
 }
@@ -12428,16 +12428,16 @@ a{
  .witr_field2 .witr_form_field2.witr_2width100 {
      width: 100%;
 }
- .solutech_contact4_area .btn {
+ .clm_contact4_area .btn {
      width: 100%;
 }
- .solutech_contact4_area .btn:hover {
+ .clm_contact4_area .btn:hover {
      background:#00247e;
 }
  .contact_top{
      margin-top:40px;
 }
- .solutech_contact4_area .witr_text_area2 textarea {
+ .clm_contact4_area .witr_text_area2 textarea {
      width:100%;
      height: 150px;
 }
@@ -12453,7 +12453,7 @@ a{
  .witr_form_field2.field3 {
      width: 100%;
 }
- .solutech_contact4_area .apartment_text h2 {
+ .clm_contact4_area .apartment_text h2 {
      text-align: left;
 }
  .map_area iframe{
@@ -12464,11 +12464,11 @@ a{
  .about_area.home2{
      padding:100px 0px 0px;
 }
-/* solutech_contact5_area */
- .solutech_contact5_area {
+/* clm_contact5_area */
+ .clm_contact5_area {
      padding: 85px 0px 72px;
 }
- .solutech_contact5_area.contact2_page {
+ .clm_contact5_area.contact2_page {
      padding:93px 0px 100px;
 }
  .apartment_area .witr_apartment_form form select, .apartment_area .witr_apartment_form input {
@@ -12502,10 +12502,10 @@ a{
  .apartment_area .form-group textarea::-webkit-input-placeholder{
      color: #fff ;
 }
- .solutech_contact3_area .service-item.all_color_service {
+ .clm_contact3_area .service-item.all_color_service {
      padding: 23px 0px 23px 0px;
 }
- .solutech_contact5_area .service-item.all_color_service {
+ .clm_contact5_area .service-item.all_color_service {
      padding: 23px 0px 23px 0px;
      box-shadow: 0px 0px 20px 0px rgb(42 67 113 / 15%);
      margin-bottom: 30px;
@@ -12519,28 +12519,28 @@ a{
  .single_blog.single_blog_grid.singles {
      margin-bottom: 40px;
 }
- .solutech_testimonial2_area.testi_page {
+ .clm_testimonial2_area.testi_page {
      padding: 95px 0px 70px;
 }
- .solutech_project_area{
+ .clm_project_area{
      padding:95px 30px 95px;
 }
  .project_top{
      margin-top:65px;
 }
- .solutech_team2_area{
+ .clm_team2_area{
      padding:95px 0px 55px;
 }
  .counterdowns_top{
      margin-top:30px;
 }
- .solutech_team_area.team_page {
+ .clm_team_area.team_page {
      padding: 90px 0px 70px;
 }
- .solutech_make_service_area.make_service2 {
+ .clm_make_service_area.make_service2 {
      background-image: url(../images/blog7.jpg);
 }
- .solutech_make_service_area.make_service2:before {
+ .clm_make_service_area.make_service2:before {
      background: #222429cc;
 }
  .about_area.choose_page {
@@ -12549,7 +12549,7 @@ a{
  .swiper2.choose_page .witr_swiper_height::before {
      background: #222429BA;
 }
- .solutech_blog2_area.blog_page{
+ .clm_blog2_area.blog_page{
      padding:100px 0px 70px;
 }
  .blog_page .blog-part.all_blog_color {
@@ -12561,6 +12561,6 @@ a{
  .about_area.choose {
      padding: 100px 0px 100px;
 }
- .solutech_pricing2_area.choose_page {
+ .clm_pricing2_area.choose_page {
      padding: 0px 0px 70px;
 }

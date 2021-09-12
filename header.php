@@ -2,7 +2,7 @@
     <!-- DESKTOP MENU Logo AREA -->
     <div class="em40_header_area_main">
         <!-- HEADER TOP AREA -->
-        <div class="solutech-header-top">
+        <div class="clm-header-top">
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-lg-9 col-xl-9 col-md-9 col-sm-12">
@@ -35,8 +35,8 @@
                     <div class="tx_relative_m">
                         <div class="">
                             <div class="mainmenu_width_tx">
-                                <div class="solutech-main-menu one_page hidden-xs hidden-sm witr_h_h10">
-                                    <div class="solutech_nav_area scroll_fixed postfix">
+                                <div class="clm-main-menu one_page hidden-xs hidden-sm witr_h_h10">
+                                    <div class="clm_nav_area scroll_fixed postfix">
                                         <div class="container">
                                             <div class="row logo-left">
                                                 <!-- LOGO -->
@@ -51,7 +51,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="col-md-9 col-sm-9 col-xs-8">
-                                                    <nav class="solutech_menu main-search-menu">
+                                                    <nav class="clm_menu main-search-menu">
                                                         <ul class="sub-menu">
                                                             <li><a href="nuestra-experiencia.php">Experiencia</a></li>
                                                             <li><a href="#">Tecnología Láser</a></li>
@@ -96,7 +96,7 @@
     <nav>
         <div class="home-2 mbm hidden-md hidden-lg  header_area main-menu-area">
             <div class="menu_area mobile-menu">
-                <nav class="solutech_menu">
+                <nav class="clm_menu">
                     <ul class="sub-menu">
                         <li><a href="nuestra-experiencia.php">Experiencia</a></li>
                         <li><a href="#">Tecnología Láser</a></li>

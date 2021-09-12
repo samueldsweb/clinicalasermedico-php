@@ -341,7 +341,7 @@
     	One Page Nav
     ----------------------------------- */
      var top_offset = $('.one_page').height() +0;
-    $('.one_page .solutech_menu .nav_scroll').onePageNav({
+    $('.one_page .clm_menu .nav_scroll').onePageNav({
         currentClass: 'current',
         changeHash: false,
         scrollSpeed: 1000,
