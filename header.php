@@ -54,9 +54,25 @@
                                                     <nav class="clm_menu main-search-menu">
                                                         <ul class="sub-menu">
                                                             <li><a href="nuestra-experiencia.php">Experiencia</a></li>
-                                                            <li><a href="#">Tecnología Láser</a></li>
-                                                            <li><a href="#">Profesionales</a></li>
-                                                            <li><a href="#">Servicios</a></li>
+                                                            <li><a href="tecnologia-laser.php">Tecnología Láser</a></li>
+                                                            <li><a href="profesionales-clinica-laser-medico.php">Profesionales</a></li>
+                                                            <li class="menu-item-has-children">
+                                                                <a href="#">Servicios</a>
+                                                                <ul class="sub-menu">
+                                                                    <li><a href="#">Manchas en la piel</a></li>
+                                                                    <li><a href="#">Eliminación de cicatrices</a></li>
+                                                                    <li><a href="#">Rejuvenecimiento de ojo</a></li>
+                                                                    <li><a href="#">Verrugas y/o lunares</a></li>
+                                                                    <li><a href="#">Eliminación de tatuajes</a></li>
+                                                                    <li><a href="#">Eliminación de acné</a></li>
+                                                                    <li><a href="#">Tratamiendo de la rosacea</a></li>
+                                                                    <li><a href="#">Eliminacíon de estrías</a></li>
+                                                                    <li><a href="#">Reducción de celulitis</a></li>
+                                                                    <li><a href="#">Recupera tu silueta</a></li>
+                                                                    <li><a href="#">Ondas de choque</a></li>
+                                                                    <li><a href="#">Criolopólisis</a></li>
+                                                                </ul>
+                                                            </li>
                                                             <li><a href="#">Blog</a></li>
                                                         </ul>
                                                         <div class="donate-btn-header">
@@ -99,8 +115,8 @@
                 <nav class="clm_menu">
                     <ul class="sub-menu">
                         <li><a href="nuestra-experiencia.php">Experiencia</a></li>
-                        <li><a href="#">Tecnología Láser</a></li>
-                        <li><a href="#">Profesionales</a></li>
+                        <li><a href="tecnologia-laser.php">Tecnología Láser</a></li>
+                        <li><a href="profesionales-clinica-laser-medico.php">Profesionales</a></li>
                         <li><a href="#">Servicios</a></li>
                         <li><a href="#">Blog</a></li>
                     </ul>

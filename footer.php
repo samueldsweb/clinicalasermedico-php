@@ -99,8 +99,8 @@
                         <div class="footer-menu">
                             <ul class="text-right">
                                 <li><a href="#">Inicio</a></li>
-                                <li><a href="#">Experencia</a></li>
-                                <li><a href="#">Servicios</a></li>
+                                <li><a href="nuestra-experiencia.php">Experencia</a></li>
+                                <li><a href="#">Blog</a></li>
                             </ul>
                         </div>
                     </div>

@@ -7,6 +7,7 @@
     <meta name="description" content="<?php echo $description ?>">
     <meta name="keywords" content="<?php echo $keywords ?>"/>
     <meta name="copyright" content="Bruix Soluciones" />
+    <meta property="og:image" content="https://portafolio.bruix.io/clinicalasermedico/index.php">
     <!-- Favicon Icon -->
     <link rel="icon" type="image/png" href="assets/images/favicon.ico">
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
