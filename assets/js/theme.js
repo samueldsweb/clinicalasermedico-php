@@ -674,18 +674,23 @@
 					$('.carso_idtesti').slick({
 							infinite: true,
 							autoplay: true,
-							autoplaySpeed: 3000,
+							autoplaySpeed: 2000,
 							speed: 1000,					
 							slidesToShow: 3,
 							slidesToScroll: 1,
-							arrows: true,
-							dots: false,
+							arrows: false,
+							dots: true,
+							centerMode: true,
+							centerPadding: '60px',
 							responsive: [
 								{
 									breakpoint: 1200,
 									settings: {
 										slidesToShow: 2,
 										slidesToScroll: 1,
+										dots: true,
+										centerMode: true,
+										centerPadding: '30px',
 									}
 							},
 								{
@@ -693,13 +698,19 @@
 									settings: {
 										slidesToShow: 2,
 										slidesToScroll: 1,
+										dots: true,
+										centerMode: true,
+										centerPadding: '30px',
 									}
 							},
 								{
 									breakpoint: 767,
 									settings: {
-										slidesToShow: 1,
-										slidesToScroll: 1,
+									arrows: true,
+									centerMode: true,
+									centerPadding: '30px',
+									slidesToShow: 1,
+									slidesToScroll: 1,
 									}
 							}
 							// You can unslick at a given breakpoint now by adding:

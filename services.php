@@ -422,26 +422,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- serivce_08 -->
-                    <div class="item_pos col-lg-12">
-                        <div class="witr_single_pslide">
-                            <div class="witr_pslide_image">
-                                <img src="assets/images/servicio-eliminacion-de-estrias.jpg" alt="Eliminación de estrías de manera exitosa">
-                            </div>
-                            <div class="witr_content_pslide_text">
-                                <div class="witr_number_pslide">
-                                    <h4>08.</h4>
-                                </div>
-                                <div class="witr_content_pslide">
-                                    <p>De manera exitosa</p>
-                                    <h3><a href="#">Eliminación de estrías</a></h3>
-                                </div>
-                                <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <!-- serivce_09 -->
                     <div class="item_pos col-lg-12">
                         <div class="witr_single_pslide">

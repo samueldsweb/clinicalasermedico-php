@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="es">
-    <?php include("head.php") ?>
+    <?php include("head-index.php") ?>
 <body>
     <?php include("header.php") ?>
     <?php include("carousel.php") ?>
