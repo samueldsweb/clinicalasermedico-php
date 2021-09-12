@@ -2,10 +2,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Clínica Láser Médico - Salud & Belleza | Medicina Estética</title>
+    <title><?php echo $title ?></title>
     <meta name="author" content="Bruix Soluciones">
-    <meta name="description" content="En Clínica Láser Médico, estamos preparados para realizar todos los tratamientos médico estéticos más importantes para los hombres y mujeres de hoy en día. Realizamos servicios de láser con equipos de última generación, contamos con más de 40 años de Experiencia.">
-    <meta name="keywords" content="Salud, Belleza, Estética, Cosmética, Cuidado Personal, Medicina Estética, Rejuvenecimiento Facial, Tratamientos Estéticos, Tratamientos Médicos, Servicios de láser estético, Eliminar Manchas, Eliminar Celulitis, Eliminar Estrías, Eliminar Cicatrices, Eliminar Verrugas, Eliminar Lunares, Eliminar Tatuajes, Eliminar Acné, Tratamiento de la Rosacea, Ondas de Choque, Alivio de Dolencias, Rejuvenecimiento de Ojos, Rejuvenecimiento."/>
+    <meta name="description" content="<?php echo $description ?>">
+    <meta name="keywords" content="<?php echo $keywords ?>"/>
     <meta name="copyright" content="Bruix Soluciones" />
     <!-- Favicon Icon -->
     <link rel="icon" type="image/png" href="assets/images/favicon.ico">

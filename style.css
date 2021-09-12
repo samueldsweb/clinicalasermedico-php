@@ -14,6 +14,11 @@ Version: 1.0
     border-bottom: 2px solid #0c5adb1F;    
 }
 
+.line-vertical {
+    border-left: solid 2px #0c5adb1F;
+    padding-left: 1rem;
+}
+
 .btn-whatsapp {
     position: fixed;
     width: 50px;

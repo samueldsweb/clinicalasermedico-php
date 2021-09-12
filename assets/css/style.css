@@ -8306,7 +8306,7 @@ a{
 }
  .breadcumb-area {
      padding: 150px 0px;
-     background-image: url(../images/slider-2.jpg);
+     background-image: url(../images/banner-breadcumb.png);
      background-position: center center;
      background-repeat: no-repeat;
      position: relative;
@@ -8339,7 +8339,7 @@ a{
  .breadcumb-inner li a:hover{
      color: #0c5adb;
 }
- .brpt h2 {
+ .brpt h1 {
      color: #fff;
      font-size: 40px;
     /* padding-bottom: 10px;
@@ -11755,7 +11755,7 @@ a{
 }
  .about_area .witr_section_title_inner.text-left p {
      width: 100%;
-     margin-bottom: 34px;
+     /* margin-bottom: 34px; */
 }
  .about_area .witr_progress-style2.progress {
      height: 4px;
