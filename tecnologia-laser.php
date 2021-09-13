@@ -106,6 +106,150 @@ include("head.php");
                         </div>
                     </div>
                 </div>
+                <!-- clm_process_04 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-co2-quirurgico.jpg" alt="Láser Co2 Quirúrgico">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Láser Co2 Quirúrgico</a></h3>
+                                        <p>Con el láser quirúrgico podemos eliminar verrugas, lunares, acrocordones, fibromas, quistes y las neoplasias del virus de papiloma humano.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_05 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-picosecond.jpg" alt="Láser Picosecond">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Láser Picosecond</a></h3>
+                                        <p>A través de la tecnología picosecond que trabaja en velocidad de billonésima de segundo podemos por fin eliminar en su totalidad (100%) un tatuaje. Con esta tecnología de alta calidad eliminar un tatuaje por completo es una realidad.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_06 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-erbium-glass.jpg" alt="Erbium Glass">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Erbium Glass</a></h3>
+                                        <p>El láser Erbium Glass es capaz de intervenir térmicamente las glándulas sebáceas destruyendo las bacterias que acompañan el acné. Con la tecnología HIFU se realizan procedimientos como eliminar manchas de las zonas íntimas en todo tipo de piel o el rejuvenecimiento vaginal. Es capaz también de tratar la incontinencia urinaria y el prolapso. Estas llegan a ser un problema para muchas mujeres.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_07 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-soprano-ice.jpg" alt="Láser Co2 Quirúrgico">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Soprano ICE</a></h3>
+                                        <p>Incluyendo varias tecnologías y longitudes de onda de láser, Soprano ICE permite tratar la mayor variedad de pacientes y de tipo de pelo los 365 días del año, realizar tratamientos muy rápidos y de forma muy cómoda.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_08 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-q-switched.jpg" alt="Láser Q-Switched">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Láser Q-Switched</a></h3>
+                                        <p>Q-Switched es un láser diseñado en específico para eliminar lesiones pigmentadas, superficiales y profundas como son las manchas del sol, los tatuajes o un microblanding mal realizado. Para borrarlos, este láser emite un haz de luz que se absorbe por las partículas de tienta, que se van fragmentando sin dañar los tejidos circundantes y acaban por desaparecer.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_09 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-exilis-ultra.jpg" alt="Exilis Ultra">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Exilis Ultra</a></h3>
+                                        <p>La potente sinergia de este equipo permite reducir la grasa de áreas localizadas. Esta tecnología reduce la celulitis, tensa la piel y remodela el cuerpo.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </article>
     </section>
