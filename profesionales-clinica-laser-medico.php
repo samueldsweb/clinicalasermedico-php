@@ -9,7 +9,7 @@ include("head.php");
 
 <body>
     <?php include("header.php") ?>
-    <?php $title_banner = "Profesionales";
+    <?php $title_page = "Nuestros Profesionales Láser"; $title_breadcumb = "Profesionales";
     include("breadcumb.php") ?>
 
     <section>

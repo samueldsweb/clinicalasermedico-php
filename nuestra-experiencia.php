@@ -9,7 +9,8 @@ include("head.php");
 
 <body>
     <?php include("header.php") ?>
-    <?php $title_banner = "Nuestra Experiencia"; include("breadcumb.php") ?>
+    <?php $title_page = "Nuestra Experiencia"; $title_breadcumb = "Experiencia"; 
+    include("breadcumb.php") ?>
 
     <section>
         <!-- about_area -->

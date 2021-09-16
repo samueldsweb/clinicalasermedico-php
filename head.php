@@ -13,9 +13,9 @@
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="venobox/venobox.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/plugin_theme_css.css" />
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css?v1" />
     <link rel="stylesheet" type="text/css" href="style.css?v=1" />
-    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css?v1" />
     <!-- modernizr js -->
     <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
     <!-- Css adicionales -->
