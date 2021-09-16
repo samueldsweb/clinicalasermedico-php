@@ -2229,7 +2229,11 @@ a{
 /* PROCESS SECTION */
  .witr_process{
      overflow: hidden;
-     margin-bottom: 30px;
+     margin-bottom: 40px;
+     border: solid 1px #fff;
+     border-radius: 1rem;
+     -webkit-box-shadow: 5px 5px 19px 0px rgb(0 0 0 / 5%); 
+     box-shadow: 5px 5px 19px 0px rgb(0 0 0 / 5%);
 }
  .witr_front_content {
 }

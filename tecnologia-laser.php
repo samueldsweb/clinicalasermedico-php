@@ -32,7 +32,7 @@ include("head.php");
                 </div>
             </div>
         </article>
-        <article class="container">
+        <article class="container mb-5">
             <div class="row">
                 <!-- clm_process_01 -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -130,7 +130,31 @@ include("head.php");
                         </div>
                     </div>
                 </div>
-                <!-- clm_process_05 -->
+                 <!-- clm_process_05 -->
+                 <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-co2-ginecologico.jpg" alt="Láser Co2 Ginecológico">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Láser Co2 Ginecológico</a></h3>
+                                        <p>El láser ginecológico funciona para tratar lesiones del cuello uterino y vagina, tratar la incontinencia urinaria o resolver las pigmentaciones de zonas íntimas.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_06 -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="witr_process all_process_color">
                         <div class="witr_front_content">
@@ -154,7 +178,7 @@ include("head.php");
                         </div>
                     </div>
                 </div>
-                <!-- clm_process_06 -->
+                <!-- clm_process_07 -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="witr_process all_process_color">
                         <div class="witr_front_content">
@@ -178,7 +202,7 @@ include("head.php");
                         </div>
                     </div>
                 </div>
-                <!-- clm_process_07 -->
+                <!-- clm_process_08 -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="witr_process all_process_color">
                         <div class="witr_front_content">
@@ -202,7 +226,7 @@ include("head.php");
                         </div>
                     </div>
                 </div>
-                <!-- clm_process_08 -->
+                <!-- clm_process_09 -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="witr_process all_process_color">
                         <div class="witr_front_content">
@@ -226,7 +250,7 @@ include("head.php");
                         </div>
                     </div>
                 </div>
-                <!-- clm_process_09 -->
+                <!-- clm_process_10 -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="witr_process all_process_color">
                         <div class="witr_front_content">
@@ -250,6 +274,134 @@ include("head.php");
                         </div>
                     </div>
                 </div>
+                <!-- clm_process_11 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-shr.jpg" alt="Láser SHR">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Láser SHR</a></h3>
+                                        <p>SHR significa Super Hair Removal, una tecnología diseñada para la eliminación del vello. El sistema combina la tecnología Láser y los beneficios del sistema de Luz Pulsante para lograr resultados sin dolor.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_12 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-v-beam.jpg" alt="Láser V-BEAM">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Láser V-BEAM</a></h3>
+                                        <p>El láser V-BEAM, es un láser de colorante pulsado, capaz de fijar su energía en la hemoglobina, pigmento de la sangre, eliminando así de forma eficaz y segura las lesiones vasculares asociadas a rosácea. Trata también las varices y hemangiomas mediante la aplicación de una terapia láser dirigida.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_13 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/tecnologia-narl.jpg" alt="Tecnología NARL">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Tecnología NARL</a></h3>
+                                        <p>La tecnología NARL produce unas ondas de ultrasonido que estimulan la liberación de Noradrenalina por el sistema simpático. Esta es una hormona que activa de forma natural la lipólisis y transforma los ácidos grasos en fuente de energía. Esta grasa puede ser consumida por los músculos con un ejercicio moderado de 20 a 40 minutos tras la aplicación de los NARL.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_14 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/laser-cavitacion.jpg" alt="Cavitación">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Cavitación</a></h3>
+                                        <p>La cavitación es una técnica no quirúrgica para eliminar la grasa localizada mediante el uso de ultrasonidos de baja frecuencia, que se aplican sobre la zona donde se concentra la grasa para disolver las células adiposas desde su interior.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- clm_process_15 -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="witr_process all_process_color">
+                        <div class="witr_front_content">
+                            <div class="witr_process_image">
+                                <img src="assets/images/radiofrecuencia-fraccionada.jpg" alt="Radiofrecuencia fraccionada">
+                                <div class="witr_back_process">
+                                    <div class="witr_content_service">
+                                        <h3><a href="#">Radiofrecuencia fraccionada</a></h3>
+                                        <p>La radiofrecuencia fraccionada sirve para hacer tensado de piel, reducir la papada, cicatrices y estrías.</p>
+                                    </div>
+                                </div>
+                                <div class="witr_process_box">
+                                    <div class="witr_process_icon">
+                                        <i class="fas fa-plus"></i>
+                                    </div>
+                                    <div class="witr_process_icon2">
+                                        <i class="fas fa-minus"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </article>
+        <article>
+            <div class="container mb-5">
+                <h2 class="line-vertical mb-4">Contar con la Tecnologia láser modernos, nos permite numerosas posibilidades de tratamientos en especialidades como la medicina estética y dermatología. También los tratamientos vasculares, urología, cirugía y ginecología.</h2>
+                <p>Enfoques novedosos para solucionar con eficacia los problemas estéticos y de salud más comunes.</p>
+                <p>Aseguramos que la nueva generación de nuestro equipamiento, unido a la experiencia ganada en cerca de 40 años nos permite manejar una amplia gama de aplicaciones médico estéticas.</p>
+                <p>La exclusividad de estos láseres de nueva generación brindan lo que siempre soñamos alcanzar. La tranquilidad de que los parámetros se envían de forma controlada, segura y precisa por el sistema durante todo el tratamiento. Brindándote y también a nosotros seguridad y confianza única.</p>
             </div>
         </article>
     </section>
