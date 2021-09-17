@@ -20,7 +20,7 @@ include("head.php");
                         <div class="row">
                             <div class="col-lg-8 col-md-6 col-sm-12">
                                 <div class="row">
-                                    <div class="col-lg-12 ">
+                                    <div class="col-lg-12">
                                         <div class="service-item all_color_service text-left ">
                                             <div class="service_top_image">
                                                 <img src="assets/images/banner-eliminar-manchas-de-tu-piel.jpg" alt="Elimina manchas en tu piel">
@@ -30,11 +30,11 @@ include("head.php");
                                                 <p>Cada vez es más frecuente que los pacientes nos relaten la incomodidad y preocupación por la aparición de manchas, las razones pueden ser sobreexposición solar, cambios bruscos de peso, medicamentos, hormonas, factores hereditarios, interacción con factores físicos, químicos, mecánicos, agentes biológicos, metabólicos o nutricionales, endocrinos, tratamientos mal realizados o lesiones de la piel.</p>
                                                 <p>A través de la tecnología picosecond que trabaja en velocidad de billonésima de segundo podemos por fin eliminar en su totalidad (100%) un tatuaje. Con esta tecnología de alta calidad eliminar un tatuaje por completo es una realidad.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-12">
+                                        <div class="col-lg-12 mb-5">
                                             <!--======SCREENSHOTS PART START wittr_car_top_right ======-->
                                             <div class="imagess_area wittr_car_top_left pds">
                                                 <div class="witr_car_overlay imagess_id1">
@@ -77,64 +77,8 @@ include("head.php");
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 acadmics departmen2">
-                                <div class="departmentList all_list_color text">
-                                    <h3>Otros Servicios Especializados</h3>
-                                    <ul>
-                                        <li><a href="#">Eliminación de cicatrices</a></li>
-                                        <li><a href="#">Rejuvenecimiento de ojo</a></li>
-                                        <li><a href="#">Verrugas y/o lunares</a></li>
-                                        <li><a href="#">Eliminación de tatuajes</a></li>
-                                        <li><a href="#">Eliminación de acné</a></li>
-                                        <li><a href="#">Tratamiendo de la rosacea</a></li>
-                                        <li><a href="#">Eliminacíon de estrías</a></li>
-                                        <li><a href="#">Reducción de celulitis</a></li>
-                                        <li><a href="#">Recupera tu silueta</a></li>
-                                        <li><a href="#">Ondas de choque</a></li>
-                                        <li><a href="#">Criolopólisis</a></li>
-                                    </ul>
-                                </div>
-                                <div class="apartment2_area">
-                                    <div class="apartment_text">
-                                        <h1>¿Tienes alguna duda?</h1>
-                                        <h2>Contáctanos</h2>
-                                    </div>
-                                    <div class="witr_apartment_form form2 contact_top">
-                                        <form action="mail.php" method="post" id="contact-form">
-                                            <div class="witr_form_controls2">
-                                                <div class="witr_field1">
-                                                    <div class="witr_form_field1">
-                                                        <span><input type="text" name="name" placeholder="Nombre y Apellido*"></span>
-                                                    </div>
-                                                    <div class="witr_form_field1">
-                                                        <span><input type="email" name="email" placeholder="Correo*"></span>
-                                                    </div>
-                                                </div>
-                                                <div class="witr_field1">
-                                                    <div class="witr_form_field1">
-                                                        <span><input type="number" name="phone" placeholder="Célular*"></span>
-                                                    </div>
-                                                </div>
-                                                <div class="witr_field1">
-                                                    <div class="witr_text_area1">
-                                                        <span>
-                                                            <textarea name="comment" placeholder="Déjanos tu comentario..."></textarea>
-                                                        </span>
-                                                    </div>
-                                                </div>
-                                                <div class="witr_field1">
-                                                    <div class=" witr_con_btn1">
-                                                        <button class="btn btn-primary" type="submit" name="ok">Consultar</button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="row">
-                                                <div class="col-lg-12">
-                                                    <p class="form-messege"></p>
-                                                </div>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
+                                <?php include("sidebar-services.php") ?>
+                                <?php include("sidebar-form.php") ?>
                             </div>
                         </div>
                     </div>

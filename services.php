@@ -29,10 +29,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>100% garantizado</p>
-                                    <h3><a href="#">Eliminación de Manchas en la piel</a></h3>
+                                    <h3><a href="manchas-en-la-piel.php">Eliminación de Manchas en la piel</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="manchas-en-la-piel.php""><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -49,10 +49,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Sin dejar rastros</p>
-                                    <h3><a href="#">Eliminación de cicatrices</a></h3>
+                                    <h3><a href="eliminacion-de-cicatrices.php">Eliminación de cicatrices</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-cicatrices.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -69,10 +69,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Blefaroplastia</p>
-                                    <h3><a href="#">Rejuvenecimiento de ojo</a></h3>
+                                    <h3><a href="rejuvenecimiento-de-ojos.php">Rejuvenecimiento de ojos</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="rejuvenecimiento-de-ojos.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -89,10 +89,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Sin dejar cicatrices</p>
-                                    <h3><a href="#">Eliminación de verrugas/lunares.</a></h3>
+                                    <h3><a href="eliminacion-de-verrugas-y-lunares.php">Eliminación de verrugas/lunares.</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-verrugas-y-lunares.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -109,10 +109,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Sin dejar rastros</p>
-                                    <h3><a href="#">Eliminación de tatuajes</a></h3>
+                                    <h3><a href="eliminacion-de-tatuajes.php">Eliminación de tatuajes</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-tatuajes.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -274,10 +274,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>100% garantizado</p>
-                                    <h3><a href="#">Eliminación de Manchas en la piel</a></h3>
+                                    <h3><a href="manchas-en-la-piel.php">Eliminación de Manchas en la piel</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="manchas-en-la-piel.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -294,10 +294,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Sin dejar rastros</p>
-                                    <h3><a href="#">Eliminación de cicatrices</a></h3>
+                                    <h3><a href="eliminacion-de-cicatrices.php">Eliminación de cicatrices</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-cicatrices.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -314,10 +314,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Blefaroplastia</p>
-                                    <h3><a href="#">Rejuvenecimiento de ojo</a></h3>
+                                    <h3><a href="rejuvenecimiento-de-ojos.php">Rejuvenecimiento de ojos</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="rejuvenecimiento-de-ojos.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -334,10 +334,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Sin dejar cicatrices</p>
-                                    <h3><a href="#">Eliminación de verrugas/lunares.</a></h3>
+                                    <h3><a href="eliminacion-de-verrugas-y-lunares.php">Eliminación de verrugas/lunares.</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-verrugas-y-lunares.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -354,10 +354,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Sin dejar rastros</p>
-                                    <h3><a href="#">Eliminación de tatuajes</a></h3>
+                                    <h3><a href="eliminacion-de-tatuajes.php">Eliminación de tatuajes</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-tatuajes.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
