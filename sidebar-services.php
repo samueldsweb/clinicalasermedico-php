@@ -12,6 +12,6 @@
         <li><a href="exilis-ultra.php">Reducción de celulitis</a></li>
         <li><a href="recupera-tu-silueta.php">Recupera tu silueta</a></li>
         <li><a href="ondas-de-choque.php">Ondas de choque</a></li>
-        <li><a href="criolipolisis.php">Criolopólisis</a></li>
+        <li><a href="criolipolisis.php">Criolipólisis</a></li>
     </ul>
 </div>

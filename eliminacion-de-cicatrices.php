@@ -23,7 +23,7 @@ include("head.php");
                                     <div class="col-lg-12 ">
                                         <div class="service-item all_color_service text-left ">
                                             <div class="service_top_image">
-                                                <img src="assets/images/banner-eliminacion-de-cicatrices.jpg" alt="Elimina manchas en tu piel">
+                                                <img src="assets/images/banner-eliminacion-de-cicatrices.jpg" alt="Eliminación de cicatrices">
                                             </div>
                                             <div class="text_box all_icon_color">
                                                 <h3>Eliminación de cicatrices sin dejar rastro</h3>
