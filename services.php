@@ -129,10 +129,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Borra de manera segura</p>
-                                    <h3><a href="#">Eliminación de acné</a></h3>
+                                    <h3><a href="eliminacion-de-acne.php">Eliminación de acné</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-acne.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -149,10 +149,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Fácil, rápido y seguro</p>
-                                    <h3><a href="#">Tratamiento de la rosacea</a></h3>
+                                    <h3><a href="tratamiento-de-la-rosacea.php">Tratamiento de la rosacea</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="tratamiento-de-la-rosacea.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -169,10 +169,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>De manera exitosa</p>
-                                    <h3><a href="#">Eliminación de estrías</a></h3>
+                                    <h3><a href="eliminacion-de-estrias.php">Eliminación de estrías</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-estrias.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -189,10 +189,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Tensar la piel + Reducción Celulitis</p>
-                                    <h3><a href="#">Exilis Ultra</a></h3>
+                                    <h3><a href="exilis-ultra.php">Exilis Ultra</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="exilis-ultra.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -209,10 +209,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Recuperando tu silueta</p>
-                                    <h3><a href="#">EMSCULPT</a></h3>
+                                    <h3><a href="recupera-tu-silueta.php">EMSCULPT</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="recupera-tu-silueta.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -229,10 +229,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Alivio de dolencias</p>
-                                    <h3><a href="#">Ondas de choque</a></h3>
+                                    <h3><a href="ondas-de-choque.php">Ondas de choque</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="ondas-de-choque.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -249,10 +249,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Destrucción de las células grasas</p>
-                                    <h3><a href="#">Criolipólisis</a></h3>
+                                    <h3><a href="criolipolisis.php">Criolipólisis</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="criolipolisis.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -374,10 +374,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Borra de manera segura</p>
-                                    <h3><a href="#">Eliminación de acné</a></h3>
+                                    <h3><a href="eliminacion-de-acne.php">Eliminación de acné</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-acne.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -394,10 +394,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Fácil, rápido y seguro</p>
-                                    <h3><a href="#">Tratamiento de la rosacea</a></h3>
+                                    <h3><a href="tratamiento-de-la-rosacea.php">Tratamiento de la rosacea</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="tratamiento-de-la-rosacea.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -414,10 +414,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>De manera exitosa</p>
-                                    <h3><a href="#">Eliminación de estrías</a></h3>
+                                    <h3><a href="eliminacion-de-estrias.php">Eliminación de estrías</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="eliminacion-de-estrias.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -434,10 +434,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Tensar la piel + Reducción Celulitis</p>
-                                    <h3><a href="#">Exilis Ultra</a></h3>
+                                    <h3><a href="exilis-ultra.php">Exilis Ultra</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="exilis-ultra.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -454,10 +454,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Recuperando tu silueta</p>
-                                    <h3><a href="#">EMSCULPT</a></h3>
+                                    <h3><a href="recupera-tu-silueta.php">EMSCULPT</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="recupera-tu-silueta.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -474,10 +474,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Alivio de dolencias</p>
-                                    <h3><a href="#">Ondas de choque</a></h3>
+                                    <h3><a href="ondas-de-choque.php">Ondas de choque</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="ondas-de-choque.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -494,10 +494,10 @@
                                 </div>
                                 <div class="witr_content_pslide">
                                     <p>Destrucción de las células grasas</p>
-                                    <h3><a href="#">Criolipólisis</a></h3>
+                                    <h3><a href="criolipolisis.php">Criolipólisis</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
-                                    <a href="#"><span class="ti-arrow-right"></span></a>
+                                    <a href="criolipolisis.php"><span class="ti-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>

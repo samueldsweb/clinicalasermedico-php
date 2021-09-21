@@ -72,7 +72,7 @@ include("head.php");
                                         <p>El grado de pigmentación de la piel que tengas puede ayudar a determinar qué enfermedades cutáneas puede adquirir con mayor facilidad.</p>
                                         <p>Por ejemplo, las personas de piel clara son más sensibles a la exposición y daño a causa del sol, son mas propensas a tener manchas por exposición solar. sin embargo en personas de piel oscura, demasiada exposición solar puede conducir igualmente a manchas.</p>
                                         <strong>Para evitar nuevas manchas es importante no exponerse al sol sin protector solar, mantener una buena alimentación y evitar productos con ingredientes que puedan causar pigmentación con el tiempo.</strong>
-                                        <img class="img-fluid my-5" src="assets/images/manchas-aparecen-por-causas-hormonales.png" alt="Manchas que aparecen por causas hormonales">
+                                        <img class="img-fluid my-5" src="assets/images/eliminar-manchas-en-el-rostro.jpg" alt="¿Cómo eliminar manchas en el?">
                                     </div>
                                 </div>
                             </div>

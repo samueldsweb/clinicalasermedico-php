@@ -65,13 +65,13 @@
                                                                     <li><a href="rejuvenecimiento-de-ojos.php">Rejuvenecimiento de ojos</a></li>
                                                                     <li><a href="eliminacion-de-verrugas-y-lunares.php">Verrugas y/o lunares</a></li>
                                                                     <li><a href="eliminacion-de-tatuajes.php">Eliminación de tatuajes</a></li>
-                                                                    <li><a href="#">Eliminación de acné</a></li>
-                                                                    <li><a href="#">Tratamiendo de la rosacea</a></li>
-                                                                    <li><a href="#">Eliminacíon de estrías</a></li>
-                                                                    <li><a href="#">Reducción de celulitis</a></li>
-                                                                    <li><a href="#">Recupera tu silueta</a></li>
-                                                                    <li><a href="#">Ondas de choque</a></li>
-                                                                    <li><a href="#">Criolopólisis</a></li>
+                                                                    <li><a href="eliminacion-de-acne.php">Eliminación de acné</a></li>
+                                                                    <li><a href="tratamiento-de-la-rosacea.php">Tratamiendo de la rosacea</a></li>
+                                                                    <li><a href="eliminacion-de-estrias.php">Eliminacíon de estrías</a></li>
+                                                                    <li><a href="exilis-ultra.php">Reducción de celulitis</a></li>
+                                                                    <li><a href="recupera-tu-silueta.php">Recupera tu silueta</a></li>
+                                                                    <li><a href="ondas-de-choque.php">Ondas de choque</a></li>
+                                                                    <li><a href="criolipolisis.php">Criolopólisis</a></li>
                                                                 </ul>
                                                             </li>
                                                             <li><a href="#">Blog</a></li>
@@ -126,13 +126,13 @@
                                 <li><a href="rejuvenecimiento-de-ojos.php">Rejuvenecimiento de ojos</a></li>
                                 <li><a href="eliminacion-de-verrugas-y-lunares.php">Verrugas y/o lunares</a></li>
                                 <li><a href="eliminacion-de-tatuajes.php">Eliminación de tatuajes</a></li>
-                                <li><a href="#">Eliminación de acné</a></li>
-                                <li><a href="#">Tratamiendo de la rosacea</a></li>
-                                <li><a href="#">Eliminacíon de estrías</a></li>
-                                <li><a href="#">Reducción de celulitis</a></li>
-                                <li><a href="#">Recupera tu silueta</a></li>
-                                <li><a href="#">Ondas de choque</a></li>
-                                <li><a href="#">Criolopólisis</a></li>
+                                <li><a href="eliminacion-de-acne.php">Eliminación de acné</a></li>
+                                <li><a href="tratamiento-de-la-rosacea.php">Tratamiendo de la rosacea</a></li>
+                                <li><a href="eliminacion-de-estrias.php">Eliminacíon de estrías</a></li>
+                                <li><a href="exilis-ultra.php">Reducción de celulitis</a></li>
+                                <li><a href="recupera-tu-silueta.php">Recupera tu silueta</a></li>
+                                <li><a href="ondas-de-choque.php">Ondas de choque</a></li>
+                                <li><a href="criolipolisis.php">Criolopólisis</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Blog</a></li>
