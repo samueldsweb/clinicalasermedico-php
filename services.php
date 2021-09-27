@@ -28,7 +28,7 @@
                                     <h4>01.</h4>
                                 </div>
                                 <div class="witr_content_pslide">
-                                    <p>100% garantizado</p>
+                                    <p>Luzca una piel <span class="text-uppercase">Sana</span></p>
                                     <h3><a href="manchas-en-la-piel.php">Eliminación de Manchas en la piel</a></h3>
                                 </div>
                                 <div class="witr_pslide_custom">
@@ -121,7 +121,7 @@
                     <div class="item_pos col-lg-6">
                         <div class="witr_single_pslide">
                             <div class="witr_pslide_image">
-                                <img src="assets/images/servicio-eliminacion-de-acne.jpg" alt="Borrar tatuaje con laser y observa como te queda la piel despues de borrar">
+                                <img src="assets/images/servicio-eliminacion-de-acne.png" alt="Borrar tatuaje con laser y observa como te queda la piel despues de borrar">
                             </div>
                             <div class="witr_content_pslide_text">
                                 <div class="witr_number_pslide">
@@ -366,7 +366,7 @@
                     <div class="item_pos col-lg-12">
                         <div class="witr_single_pslide">
                             <div class="witr_pslide_image">
-                                <img src="assets/images/servicio-eliminacion-de-acne.jpg" alt="Borrar tatuaje con laser y observa como te queda la piel despues de borrar">
+                                <img src="assets/images/servicio-eliminacion-de-acne.png" alt="Borrar tatuaje con laser y observa como te queda la piel despues de borrar">
                             </div>
                             <div class="witr_content_pslide_text">
                                 <div class="witr_number_pslide">

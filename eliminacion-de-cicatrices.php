@@ -73,9 +73,7 @@ include("head.php");
                                         <p>El sistema de este tratamiento consiste en eliminar las células de la piel en la profundidad y zona deseada, llevando a producir un nuevo tejido conectivo.</p>
                                         <p>Este es un procedimiento avanzado, rápido y efectivo, capaz de remover la superficie y textura de la piel y que además provoca un fuerte estímulo en la producción de colágeno, elastina y fibroblastos.</p>
                                         <p>Recomendamos empezar el tratamiento lo más pronto posible, pero podemos tratar las cicatrices en cualquiera de sus momentos.</p>
-                                        <div class="text-center">
-                                            <img class="img-fluid my-5" src="assets/images/elimina-cicatrices-de-manera-exitosa.jpg" alt="Eliminacion de Cicatrices">
-                                        </div>
+                                        
                                         <p>Como este tratamiento puede causar alguna molestia aplicamos anestesia tópica (crema EMLA). Generalmente necesitaremos unas 4 sesiones separadas por un mes.</p>
                                         <p>Después de cada sesión se presenta enrojecimiento que persiste 2 a 3 días, luego se torna de color dorado (efecto similar a una insolación).</p>
                                         <p>Seguro que en ocasiones te has hecho estas preguntas ¿Es posible quitar cicatrices? ¿Puedo quitar queloides o la cicatriz de la cesárea?</p>

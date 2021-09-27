@@ -27,7 +27,7 @@ include("head.php");
                                             </div>
                                             <div class="text_box all_icon_color">
                                                 <h3>Eliminar tatuajes sin dejar rastros.</h3>
-                                                <p>Las razones por la que se decide borrar tatuajes que en algún momento fue querido, no son importantes.</p>
+                                                <p>Independientemente de las razones que tengas para deshacerte de este tatuaje que alguna vez fue tan querido, para eliminarlo debes elegir con mucho cuidado.</p>
                                                 <p>Su recuerdo debe quedar en tu mente, no en tu piel, por eso se debe ser muy cuidadoso con la elección del equipo y los profesionales que lo realizan.</p>
                                                 <p>En nuestra clínica contarás con dos aspectos importantes para el tatuaje borrado con laser: La tecnología más avanzada del país y la experiencia profesional de nuestros expertos de la salud.</p>
                                                 <p>Clínica Láser Médico te presenta la segunda generación de láseres más potentes y rápidos del mundo. El borrado  por completo es una realidad para nosotros.</p>

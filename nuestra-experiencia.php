@@ -29,12 +29,12 @@ include("head.php");
                             <div class="witr_section_title_inner text-left">
                                 <h2>Nuestra historia se remonta a finales de los 70</h2>
                                 <h3>Con más de 40 años de experiencia</h3>
-                                <p>Todo comenzó con la inauguración de un centro médico en la zona sur de Chile.</p>
+                                <p>Todo comenzó con la inauguración de un centro médico en la zona sur de Santiago</p>
                                 <p>
                                     Nos dedicamos desde ese entonces a la investigación y el desarrollo de tratamientos para la mejoría de la piel. Nos gusta innovar, progresar cada día para ofrecer servicios óptimos a nuestros clientes.
                                 </p>
                                 <p>
-                                    <strong>Hoy en día contamos con dos sucursales, en Coquimbo y Santiago, muchos años de experiencia y el más avanzado equipamiento en tecnología láser.</strong>
+                                    <strong>Hoy en día contamos con tres sucursales, en Santiago, Coquimbo y la Serena, muchos años de experiencia y el más avanzado equipamiento en tecnología láser.</strong>
                                 </p>
                                 <p>
                                     Los láseres se han transformado en un equipo sin igual en el campo de la medicina estética, gracias a su capacidad para realizar una increíble gama de procedimientos no invasivos que se traduce en:

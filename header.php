@@ -5,17 +5,18 @@
         <div class="clm-header-top">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-lg-9 col-xl-9 col-md-9 col-sm-12">
+                    <div class="col-xs-12 col-lg-10 col-xl-10 col-md-10 col-sm-12">
                         <div class="top-address text-left">
                             <p>
                                 <a href="https://goo.gl/maps/YTM2LSMqVK4W93pH8" target="_blank"><span><i class="fas fa-home"></i>Av Libertador Bernardo O'Higgins 949 - Santiago</span></a>
                                 <a href="https://goo.gl/maps/1JhD25yC1Ewdd3QE8" target="_blank"><span><i class="fas fa-home"></i>Darío Salas 699 - Coquimbo</span></a>
-                                <a href="https://wa.me/56963223928"><i class="fa fa-whatsapp" style="font-size: large;"></i>+56 9 6322 3928</a>
+                                <a href="https://goo.gl/maps/MqJkSNMmRiyPsnQdA" target="_blank"><span><i class="fas fa-home"></i>Huanhuali 850 oficina 205 - La Serena</span></a>
+                                <!-- <a href="https://wa.me/56963223928"><i class="fa fa-whatsapp" style="font-size: large;"></i>+56 9 6322 3928</a> -->
                             </p>
                         </div>
                     </div>
                     <!-- TOP RIGHT -->
-                    <div class="col-xs-12 col-lg-3 col-xl-3 col-md-3 col-sm-12 ">
+                    <div class="col-xs-12 col-lg-2 col-xl-2 col-md-2 col-sm-12 ">
                         <div class="top-right-menu">
                             <ul class="social-icons text-right text_m_center">
                                 <li><a href="https://www.facebook.com/clinicalasermedicoclm/" target="_blank"><i class="fa fa-facebook-f" style="font-size: large;"></i></a></li>

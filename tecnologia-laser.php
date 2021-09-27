@@ -398,7 +398,7 @@ include("head.php");
         </article>
         <article>
             <div class="container mb-5">
-                <h2 class="line-vertical mb-4">Contar con la Tecnologia láser modernos, nos permite numerosas posibilidades de tratamientos en especialidades como la medicina estética y dermatología. También los tratamientos vasculares, urología, cirugía y ginecología.</h2>
+                <h2 class="line-vertical mb-4">En clinica laser medico contamos con numerosos láser de última generación, lo que nos permite numerosas posibilidades de tratamientos en especialidades como medicina estética, dermatología, flebología, urología, cirugía plastica, ginecología dermocosmética y kinesiología estética.</h2>
                 <p>Enfoques novedosos para solucionar con eficacia los problemas estéticos y de salud más comunes.</p>
                 <p>Aseguramos que la nueva generación de nuestro equipamiento, unido a la experiencia ganada en cerca de 40 años nos permite manejar una amplia gama de aplicaciones médico estéticas.</p>
                 <p>La exclusividad de estos láseres de nueva generación brindan lo que siempre soñamos alcanzar. La tranquilidad de que los parámetros se envían de forma controlada, segura y precisa por el sistema durante todo el tratamiento. Brindándote y también a nosotros seguridad y confianza única.</p>

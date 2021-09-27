@@ -28,7 +28,7 @@ include("head.php");
                                             <div class="text_box all_icon_color">
                                                 <h3>Elimina las manchas de tu piel con éxito</h3>
                                                 <p>Cada vez es más frecuente que los pacientes nos relaten la incomodidad y preocupación por la aparición de manchas, las razones pueden ser sobreexposición solar, cambios bruscos de peso, medicamentos, hormonas, factores hereditarios, interacción con factores físicos, químicos, mecánicos, agentes biológicos, metabólicos o nutricionales, endocrinos, tratamientos mal realizados o lesiones de la piel.</p>
-                                                <p>A través de la tecnología picosecond que trabaja en velocidad de billonésima de segundo podemos por fin eliminar en su totalidad (100%) un tatuaje. Con esta tecnología de alta calidad eliminar un tatuaje por completo es una realidad.</p>
+                                                <p>Si su piel presenta manchas desde hace ya un tiempo habrá comprobado que los tratamientos tradicionales, como cremas, limpieza facial, u otros tratamientos faciales, no resuelven el problema, esto porque se necesita una tecnología fraccional que en forma segura sea capaz de “remover la piel que contiene las manchas” tal como lo lee, con esta tecnología podemos deshidratar fuertemente la piel, para que se recambien capas de la epidermis buscando una piel homogénea, libre de manchas, grasitas, arrugas, marcas, cicatrices, es decir para que luzca una piel verdaderamente <span class="text-uppercase">Sana</span> .</p>
                                                 <div class="service-btn btn2">
                                                     <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
@@ -53,11 +53,11 @@ include("head.php");
                                                             <img src="assets/images/galeria-eliminar-manchas-de-tu-piel-2.jpg" alt="Galeria elimina manchas en tu piel 2">
                                                         </div>
                                                     </div>
-                                                    <div class="witr_slick_columns">
+                                                    <!-- <div class="witr_slick_columns">
                                                         <div class="slide_items">
                                                             <img src="assets/images/galeria-eliminar-manchas-de-tu-piel-1.jpg" alt="Galeria elimina manchas en tu piel 1">
                                                         </div>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -72,7 +72,7 @@ include("head.php");
                                         <p>El grado de pigmentación de la piel que tengas puede ayudar a determinar qué enfermedades cutáneas puede adquirir con mayor facilidad.</p>
                                         <p>Por ejemplo, las personas de piel clara son más sensibles a la exposición y daño a causa del sol, son mas propensas a tener manchas por exposición solar. sin embargo en personas de piel oscura, demasiada exposición solar puede conducir igualmente a manchas.</p>
                                         <strong>Para evitar nuevas manchas es importante no exponerse al sol sin protector solar, mantener una buena alimentación y evitar productos con ingredientes que puedan causar pigmentación con el tiempo.</strong>
-                                        <img class="img-fluid my-5" src="assets/images/eliminar-manchas-en-el-rostro.jpg" alt="¿Cómo eliminar manchas en el?">
+                                        <img class="img-fluid my-5" src="assets/images/eliminar-manchas-en-el-rostro.jpg" alt="¿Cómo eliminar manchas en el rostro?">
                                     </div>
                                 </div>
                             </div>

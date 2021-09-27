@@ -9,7 +9,7 @@ include("head.php");
 
 <body>
     <?php include("header.php") ?>
-    <?php $title_page = "Tratamiento de la rosacea con láser: fácil, rápido y seguro"; $title_breadcumb = "Tratamiento de la Rosacea";
+    <?php $title_page = "tratamiento de la Rosacea con Láser Neodimio Yag de pulso largo y Láser Vbeam de colorante pulsado: fácil, rápido y seguro"; $title_breadcumb = "Tratamiento de la Rosacea";
     include("breadcumb.php") ?>
 
     <section>
@@ -26,7 +26,7 @@ include("head.php");
                                                 <img src="assets/images/banner-tratamiento-de-la-rosacea.jpg" alt="Tratamiento de la rosacea">
                                             </div>
                                             <div class="text_box all_icon_color">
-                                                <h3>Tratamiento de la rosacea con láser: fácil, rápido y seguro</h3>
+                                                <h3>tratamiento de la Rosacea con Láser Neodimio Yag de pulso largo y Láser Vbeam de colorante pulsado: fácil, rápido y seguro</h3>
                                                 <p>Este es el único tratamiento para aliviar los síntomas de la rosácea realmente efectivo. Los láser modernos permiten tratamientos exitosos y seguros en todas las épocas del año.</p>
                                                 <p>A menudo las personas con rosácea se presentan con enrojecimiento en mejillas, nariz, barbilla o frente que pueden aparecer y desaparecer. En otros casos puede abarcar además el cuello, pecho, cuero cabelludo, orejas, pieles sensibles y causa de la rosácea.</p>
                                                 <p>Con el tiempo, el enrojecimiento tiende a ser más persistente y visible. De no ser tratada se desarrollan espinillas y en casos graves la nariz puede crecer, hincharse y deformarse por exceso de tejido (rinofima), también los ojos pueden verse afectados.</p>

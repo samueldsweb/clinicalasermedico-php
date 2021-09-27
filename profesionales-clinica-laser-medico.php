@@ -2,7 +2,7 @@
 <html lang="es">
 <?php
 $title = "Profesionales - Clínica Láser Médico";
-$description = "En Clínica Láser Médico serás atendido por profesionales con alta calidad humana y gran capacidad de comprensión.";
+$description = "En clínica láser médico será atendido por profesionales de alta calidad humana y capacidad de comprensión. especialistas con años de experiencia, que le aplicaran tratamientos de forma ética, con protocolos de trabajo establecidos a nivel nacional e internacional.";
 $keywords = "Doctor Esteticista, Esteticista Profesional, Medico Estético, Estética Profesional, Servicios de Estética Precios.";
 include("head.php");
 ?>
@@ -227,7 +227,7 @@ include("head.php");
             <div class="container my-5">
                 <div class="row">
                     <div class="col-md-6">
-                        <p>En Clínica Láser Médico serás atendido por profesionales con alta calidad humana y gran capacidad de comprensión. Especialistas con muchos años de experiencia, que te ayudaran aplicar tratamientos de forma ética, con los protocolos de trabajo establecido internaciones y nacional.</p>
+                        <p>En clínica láser médico será atendido por profesionales de alta calidad humana y capacidad de comprensión. especialistas con años de experiencia, que le aplicaran tratamientos de forma ética, con protocolos de trabajo establecidos a nivel nacional e internacional.</p>
                         <p>Además, están en constante actualización al estudiar medicina en sus diferentes talleres, diplomado y másteres, disponibles bajo licencia.</p>
                         <p>El entrenamiento que disponemos en el uso de diferentes equipos láser. Aplicamos procedimientos probados y certificados por el manual de uso del fabricante, implementando novedosas tecnologías y productos de última generación en amplia variedad como Urología, ginecología, medicina estética, cirugía plástica, flebologia, dermocosmetica y kinesiología estética.</p>
                         <p>El objetivo de nuestro profesional se enfoca en su bienestar y obtener los mejores resultados, te mantienen informado del procedimiento que te van a realizar.</p>

@@ -23,7 +23,7 @@ include("head.php");
                                     <div class="col-lg-12 ">
                                         <div class="service-item all_color_service text-left ">
                                             <div class="service_top_image">
-                                                <img src="assets/images/banner-eliminar-de-acne.jpg" alt="Eliminar acné del rostro">
+                                                <img src="assets/images/banner-eliminar-de-acne.png" alt="Eliminar acné del rostro">
                                             </div>
                                             <div class="text_box all_icon_color">
                                                 <h3>Eliminación de Acné</h3>

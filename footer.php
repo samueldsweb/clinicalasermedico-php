@@ -52,6 +52,14 @@
                                         </div>
                                         <div class="footer_s_inner">
                                             <div class="footer-sociala-icon">
+                                                <i class="fa fa-map-marker"></i>
+                                            </div>
+                                            <div class="footer-sociala-info">
+                                                <p>Huanhuali 850 of. 205, La Serena</p>
+                                            </div>
+                                        </div>
+                                        <div class="footer_s_inner">
+                                            <div class="footer-sociala-icon">
                                                 <i class="fa fa-globe"></i>
                                             </div>
                                             <div class="footer-sociala-info">
@@ -77,8 +85,16 @@
                                         <span>Cerrado</span>
                                     </div>
                                     <div class="witr_sub_table">
-                                        <span>Contacto:</span>
-                                        <span> +56 9 6322 3928</span>
+                                        <span>Santiago:</span>
+                                        <span>2 2695 5516</span>    
+                                    </div>
+                                    <div class="witr_sub_table">
+                                        <span>Coquimbo:</span>
+                                        <span>2 2459 3863</span>    
+                                    </div>
+                                    <div class="witr_sub_table">
+                                        <span>La Serena:</span>
+                                        <span>+569 4742 0221</span>    
                                     </div>
                                 </div>
                             </div>
