@@ -351,11 +351,11 @@ include("head.php");
                     <div class="witr_process all_process_color">
                         <div class="witr_front_content">
                             <div class="witr_process_image">
-                                <img src="assets/images/laser-cavitacion.jpg" alt="Cavitación">
+                                <img src="assets/images/laser-criolopolisis.jpg" alt="Criolipólisis">
                                 <div class="witr_back_process">
                                     <div class="witr_content_service">
-                                        <h3><a href="#">Cavitación</a></h3>
-                                        <p>La cavitación es una técnica no quirúrgica para eliminar la grasa localizada mediante el uso de ultrasonidos de baja frecuencia, que se aplican sobre la zona donde se concentra la grasa para disolver las células adiposas desde su interior.</p>
+                                        <h3><a href="#">Criolipólisis</a></h3>
+                                        <p>La Criolipólisis es una técnica no quirúrgica para eliminar la grasa localizada mediante el uso de ultrasonidos de baja frecuencia, que se aplican sobre la zona donde se concentra la grasa para disolver las células adiposas desde su interior.</p>
                                     </div>
                                 </div>
                                 <div class="witr_process_box">
