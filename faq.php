@@ -7,7 +7,7 @@
                     <div class="witr_section_title">
                         <div class="witr_section_title_inner text-left">
                             <h2 class="mb-0">No te quedes con dudas</h2>
-                            <h3>Preguntas Frecuentas</h3>
+                            <h3>Preguntas Frecuentes</h3>
                         </div>
                     </div>
                     <div class="witr_single_progress">

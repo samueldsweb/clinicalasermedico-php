@@ -78,7 +78,7 @@
                                 <div class="witr_table">
                                     <div class="witr_sub_table">
                                         <span>Lunes - Viernes</span>
-                                        <span>09:00 - 16:30</span>
+                                        <span>09:00 - 19:00</span>
                                     </div>
                                     <div class="witr_sub_table">
                                         <span>Sabado y Domingo</span>
