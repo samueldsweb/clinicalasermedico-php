@@ -45,7 +45,7 @@
         $email_content .= "Mensaje:\n$comment\n";
 
         // Build the email headers.
-        $email_headers = "Mensaje enviado desde sitio web por: $name <$email>";
+        $email_headers = "Mensaje desde clinicalasermedico.cl por: $name <$email>";
 
         // Send the email.
 		$okk = mail($recipient, $email_headers, $email_content);

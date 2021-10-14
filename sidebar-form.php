@@ -1,3 +1,15 @@
+<!-- recaptcha V3 -->
+<script src="https://www.google.com/recaptcha/api.js?render=6LewWswcAAAAADc9ybT7eu2Xt2rEvicWUB56OAEl"></script>
+<script>
+    function onClick(e) {
+    e.preventDefault();
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6LewWswcAAAAADc9ybT7eu2Xt2rEvicWUB56OAEl', {action: 'submit'}).then(function(token) {
+            // Add your logic to submit to your backend server here.
+        });
+    });
+    }
+</script>
 <div class="apartment2_area">
     <div class="apartment_text">
         <h1>¿Tienes alguna duda?</h1>
