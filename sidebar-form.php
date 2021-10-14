@@ -29,6 +29,7 @@
                 <div class="witr_field1">
                     <div class=" witr_con_btn1">
                         <button class="btn btn-primary" type="submit" name="ok">Consultar</button>
+                        <!-- <button class="g-recaptcha" data-sitekey="6LewWswcAAAAADc9ybT7eu2Xt2rEvicWUB56OAEl" data-callback='onSubmit' data-action='submit'>Submit</button> -->
                     </div>
                 </div>
             </div>

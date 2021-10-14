@@ -37,7 +37,7 @@
                                 <div class="text_box witr_s_flex">
                                     <div class="service_top_text all_icon_color">
                                         <div class="em-service-icon">
-                                            <img src="assets/images/caracteristica-años-de-experiencia.png" alt="Más de 20 años de experiencia">
+                                            <img src="assets/images/caracteristica-anios-de-experiencia.png" alt="Más de 20 años de experiencia">
                                         </div>
                                     </div>
                                     <div class="em-service-inner">

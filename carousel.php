@@ -25,7 +25,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="swiper-slide witr_swiper_height" style="background-image: url(assets/images/slider-principal-2.jpg);">
+					<div class="swiper-slide witr_swiper_height d-none" style="background-image: url(assets/images/slider-principal-2.jpg);">
 						<div class="witr_sw_text_area text-left">
 							<div class="witr_swiper_content">
 								<h2>Equipos de Última</h2>
