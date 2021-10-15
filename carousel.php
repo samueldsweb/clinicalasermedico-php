@@ -13,7 +13,7 @@
 									<div class="witr_btn_style">
 										<div class="witr_btn_sinner">
 											<a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank">Agenda tu hora</a>
-											<a class="witr_btn active recpwit" href="#">Noticias de interés</a>
+											<a class="witr_btn active recpwit" href="https://clinicalasermedico.cl/blog/" target="_blank">Noticias de interés</a>
 										</div>
 									</div>
 								</div>
@@ -35,7 +35,7 @@
 									<div class="witr_btn_style">
 										<div class="witr_btn_sinner">
 											<a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank">Agenda tu hora</a>
-											<a class="witr_btn active recpwit" href="#">Noticias de interés</a>
+											<a class="witr_btn active recpwit" href="https://clinicalasermedico.cl/blog/" target="_blank">Noticias de interés</a>
 										</div>
 									</div>
 								</div>

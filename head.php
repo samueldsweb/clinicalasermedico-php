@@ -20,5 +20,13 @@
     <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
     <!-- Css adicionales -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
-    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5NMGWDTGXH"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-5NMGWDTGXH');
+    </script> 
 </head>

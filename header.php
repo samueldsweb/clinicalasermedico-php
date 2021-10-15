@@ -75,7 +75,7 @@
                                                                     <li><a href="criolipolisis.php">Criolopólisis</a></li>
                                                                 </ul>
                                                             </li>
-                                                            <li><a href="#">Blog</a></li>
+                                                            <li><a href="https://clinicalasermedico.cl/blog/" target="_blank">Blog</a></li>
                                                         </ul>
                                                         <div class="donate-btn-header">
                                                             <a class="dtbtn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank">Agenda tu hora</a>
@@ -136,7 +136,7 @@
                                 <li><a href="criolipolisis.php">Criolopólisis</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Blog</a></li>
+                        <li><a href="https://clinicalasermedico.cl/blog/" target="_blank">Blog</a></li>
                     </ul>
                 </nav>
             </div>

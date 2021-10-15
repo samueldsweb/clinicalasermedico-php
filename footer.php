@@ -17,7 +17,7 @@
                                     <a href="https://www.facebook.com/clinicalasermedicoclm/" target="_blank"><i class="fa fa-facebook-f"></i></a>
                                     <a href="https://www.instagram.com/clinicalasermedico/" target="_blank"><i class="fab fa-instagram"></i></a>
                                     <a href="https://www.youtube.com/channel/UCetEcaAKaP4KBn59XQPvjMQ/videos" target="_blank"><i class="fa fa-youtube-play"></i></a>
-                                    <a href="#" target="_blank"><i class="fa fa-wordpress"></i></a>
+                                    <a href="https://clinicalasermedico.cl/blog/" target="_blank"><i class="fa fa-wordpress"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -116,7 +116,7 @@
                             <ul class="text-right">
                                 <li><a href="#">Inicio</a></li>
                                 <li><a href="nuestra-experiencia.php">Experencia</a></li>
-                                <li><a href="#">Blog</a></li>
+                                <li><a href="https://clinicalasermedico.cl/blog/" target="_blank">Blog</a></li>
                             </ul>
                         </div>
                     </div>
