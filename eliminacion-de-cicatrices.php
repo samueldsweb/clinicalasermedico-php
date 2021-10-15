@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "Eliminación de cicatrices sin dejar rastros"; $title_breadcumb = "Eliminación de Cicatrices";
     include("breadcumb.php") ?>
@@ -31,7 +34,7 @@ include("head.php");
                                                 <p>Son el resultado de daños que el propio organismo tiende a reparar, este proceso se crea por la producción de las fibras de colágeno adicional para formar una especia de “parche” que tapa la herida.</p>
                                                 <p>A pesar de que el tejido de la cicatriz se compone del mismo material que la piel que sustituye (utilizando la proteína conocida como colágeno), la forma en que los nuevos “puntos” se unen es diferente, por lo tanto, se observa una apariencia inusual de la piel nueva (la cicatriz).</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-cicatrices">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

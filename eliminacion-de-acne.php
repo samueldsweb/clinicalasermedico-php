@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "Elimina el acné y sus secuelas de manera segura."; $title_breadcumb = "Eliminación de acné";
     include("breadcumb.php") ?>
@@ -32,7 +35,7 @@ include("head.php");
                                                 <p>Según su gravedad, el acné o las espinillas puede causar sufrimiento emocional y dejar cicatrices en la piel. Cuanto antes inicie el tratamiento, menor será su riesgo de sufrir tales problemas. La revisión con un profesional nos permite orientar el tratamiento de acuerdo con tus necesidades.</p>
                                                 <p>Tratando de manera personalizada tu caso. Disminuir el acné activo o también sus secuelas: Rojeces, manchas, granos en la piel, marcas y cicatrices, provocadas por otros cuadros como varicela, etc.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-acne">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

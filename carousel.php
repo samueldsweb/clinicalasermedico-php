@@ -12,8 +12,8 @@
 								<div class="slider_btn">
 									<div class="witr_btn_style">
 										<div class="witr_btn_sinner">
-											<a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank">Agenda tu hora</a>
-											<a class="witr_btn active recpwit" href="https://clinicalasermedico.cl/blog/" target="_blank">Noticias de interés</a>
+											<a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank" id="btn_clm_agendar-carousel-1">Agenda tu hora</a>
+											<a class="witr_btn active recpwit" href="https://clinicalasermedico.cl/blog/" target="_blank" id="btn_clm_blog-carousel-1">Noticias de interés</a>
 										</div>
 									</div>
 								</div>
@@ -34,8 +34,8 @@
 								<div class="slider_btn">
 									<div class="witr_btn_style">
 										<div class="witr_btn_sinner">
-											<a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank">Agenda tu hora</a>
-											<a class="witr_btn active recpwit" href="https://clinicalasermedico.cl/blog/" target="_blank">Noticias de interés</a>
+											<a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank" id="btn_clm_agendar-carousel-2">Agenda tu hora</a>
+											<a class="witr_btn active recpwit" href="https://clinicalasermedico.cl/blog/" target="_blank" id="btn_clm_blog-carousel-2">Noticias de interés</a>
 										</div>
 									</div>
 								</div>

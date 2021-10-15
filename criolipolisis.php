@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "Criolipólisis: Destrucción de celulas grasas"; $title_breadcumb = "Crolipólisis";
     include("breadcumb.php") ?>
@@ -31,7 +34,7 @@ include("head.php");
                                                 <p>Durante muchos años, la liposucción fue el procedimiento para el contorno corporal, ahora la nueva Criolipólisis es una buena alternativa y no implica altos costos ni quirófano, anestesia, tiempos de recuperación y cicatrices.</p>
                                                 <p>La Criolipólisis reduce la grasa subcutánea en el sitio de tratamiento en un 25% después de una sesión y es un método muy seguro para el contorno del cuerpo, solo con posibles efectos secundarios, como eritema temporal y hematomas transitorios.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-criolipolisis">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "tratamiento de la Rosacea con Láser Neodimio Yag de pulso largo y Láser Vbeam de colorante pulsado: fácil, rápido y seguro"; $title_breadcumb = "Tratamiento de la Rosacea";
     include("breadcumb.php") ?>
@@ -31,7 +34,7 @@ include("head.php");
                                                 <p>A menudo las personas con rosácea se presentan con enrojecimiento en mejillas, nariz, barbilla o frente que pueden aparecer y desaparecer. En otros casos puede abarcar además el cuello, pecho, cuero cabelludo, orejas, pieles sensibles y causa de la rosácea.</p>
                                                 <p>Con el tiempo, el enrojecimiento tiende a ser más persistente y visible. De no ser tratada se desarrollan espinillas y en casos graves la nariz puede crecer, hincharse y deformarse por exceso de tejido (rinofima), también los ojos pueden verse afectados.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-rosacea">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

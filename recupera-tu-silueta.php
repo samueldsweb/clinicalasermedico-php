@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "EMSCULPT: Recuperando tu silueta"; $title_breadcumb = "Recupera tu silueta";
     include("breadcumb.php") ?>
@@ -31,7 +34,7 @@ include("head.php");
                                                 <p>En la búsqueda de alternativas que hoy se adapten a nuestra nueva normalidad y nos ayuden a lograr nuestros objetivos, en Clínica Láser Médico, investigamos sobre una nueva tecnología, cuyo objetivo principal es reducir la grasa y aumentar los músculos que posiblemente estaban perdiendo tono y/o volumen.</p>
                                                 <p>Muchas personas no saben o no toman en cuenta que la fuerza central del cuerpo se compone de los músculos del abdomen y de los glúteos. De hecho, muchos de nuestros movimientos, como correr o andar en bicicleta, se originan en el abdomen, por lo que nuestro desempeño físico y movilidad en general van en relación con la fuerza de estas dos áreas del cuerpo: abdomen y glúteos.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-silueta">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

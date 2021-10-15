@@ -1,5 +1,5 @@
 <!-- Icono de whatsapp -->
-<a href="https://wa.link/47gr6p">
+<a href="https://wa.link/47gr6p" id="btn_clm_whatsapp-flotante">
     <img class="btn-whatsapp animate__animated animate__delay-3s animate__pulse animate__repeat-3" src="assets/images/whatsapp.svg" alt="Escríbenos al whatsapp">
 </a>
 <!-- witrfm_footer_area -->
@@ -17,7 +17,7 @@
                                     <a href="https://www.facebook.com/clinicalasermedicoclm/" target="_blank"><i class="fa fa-facebook-f"></i></a>
                                     <a href="https://www.instagram.com/clinicalasermedico/" target="_blank"><i class="fab fa-instagram"></i></a>
                                     <a href="https://www.youtube.com/channel/UCetEcaAKaP4KBn59XQPvjMQ/videos" target="_blank"><i class="fa fa-youtube-play"></i></a>
-                                    <a href="https://clinicalasermedico.cl/blog/" target="_blank"><i class="fa fa-wordpress"></i></a>
+                                    <a href="https://clinicalasermedico.cl/blog/" target="_blank" id="icon_clm_circle-blog-footer"><i class="fa fa-wordpress"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -116,7 +116,7 @@
                             <ul class="text-right">
                                 <li><a href="#">Inicio</a></li>
                                 <li><a href="nuestra-experiencia.php">Experencia</a></li>
-                                <li><a href="https://clinicalasermedico.cl/blog/" target="_blank">Blog</a></li>
+                                <li><a href="https://clinicalasermedico.cl/blog/" target="_blank" id="text_clm_menu-blog-footer">Blog</a></li>
                             </ul>
                         </div>
                     </div>

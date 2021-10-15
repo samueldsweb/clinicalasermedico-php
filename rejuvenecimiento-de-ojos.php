@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "Rejuvenecimiento de Ojos, Blefaroplastia"; $title_breadcumb = "Rejuvenecimiento de Ojos";
     include("breadcumb.php") ?>
@@ -32,7 +35,7 @@ include("head.php");
                                                 <p>Esto produce una baja en los niveles de hidratación de la piel: una de las grandes causas por las que aparecen las arrugas. Muchas veces uno mismo no es consciente del paso del tiempo al espejo.</p>
                                                 <p>Hay personas con poco más de 20 con signos de envejecimiento y otras de 50 en que apenas se asoman arrugas, la clave está en prevenir estos rasgos que provocan un rostro cansado, triste y envejecido.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-ojos">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

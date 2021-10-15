@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "Elimina las manchas de tu piel"; $title_breadcumb = "Manchas en la piel";
     include("breadcumb.php") ?>
@@ -30,7 +33,7 @@ include("head.php");
                                                 <p>Cada vez es más frecuente que los pacientes nos relaten la incomodidad y preocupación por la aparición de manchas, las razones pueden ser sobreexposición solar, cambios bruscos de peso, medicamentos, hormonas, factores hereditarios, interacción con factores físicos, químicos, mecánicos, agentes biológicos, metabólicos o nutricionales, endocrinos, tratamientos mal realizados o lesiones de la piel.</p>
                                                 <p>Si su piel presenta manchas desde hace ya un tiempo habrá comprobado que los tratamientos tradicionales, como cremas, limpieza facial, u otros tratamientos faciales, no resuelven el problema, esto porque se necesita una tecnología fraccional que en forma segura sea capaz de “remover la piel que contiene las manchas” tal como lo lee, con esta tecnología podemos deshidratar fuertemente la piel, para que se recambien capas de la epidermis buscando una piel homogénea, libre de manchas, grasitas, arrugas, marcas, cicatrices, es decir para que luzca una piel verdaderamente <span class="text-uppercase">Sana</span> .</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-manchas">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

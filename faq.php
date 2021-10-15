@@ -54,7 +54,7 @@
                     <div class="witr_button_area button2">
                         <div class="witr_btn_style mr">
                             <div class="witr_btn_sinner">
-                                <a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank">Agendar Hora</a>
+                                <a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank" id="btn_clm_agendar-index-faq">Agendar Hora</a>
                             </div>
                         </div>
                     </div>

@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = " Elimina verrugas, lunares y condilomas sin dejar cicatriz."; $title_breadcumb = "Verrugas - Lunares";
     include("breadcumb.php") ?>
@@ -31,7 +34,7 @@ include("head.php");
                                                 <p>En cambio, las verrugas son pequeñas áreas de piel endurecida que a menudo tiene una superficie abultada en distintos tamaños, profundidades, colores y formas que pueden aparecer en cualquier parte del cuerpo de bordes irregulares.</p>
                                                 <p>El Láser CO2 puede eliminar cualquier tipo de lesión dermatológica, lunares, verrugas, nevus maduros, fibromas, entre otras lesiones que tanto molestan a los pacientes.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-lunares">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

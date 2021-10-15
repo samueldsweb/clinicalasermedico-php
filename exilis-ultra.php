@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "Exilis Ultra: Tensar la piel + Reducción Celulitis"; $title_breadcumb = "Reducción de Celulitis";
     include("breadcumb.php") ?>
@@ -32,7 +35,7 @@ include("head.php");
                                                 <p>Su versatilidad permite ajustarlo para entregar energía altamente controlada tanto para tensar la piel como para regenerar el tejido a nivel facial y todas las áreas corporales.</p>
                                                 <p>Por otra parte el calor que penetra a través del tejido graso puede reducir las células de grasa para esculpir y adelgazar la silueta corporal. A medida que avanza el tratamiento, la piel va adquiriendo firmeza por el aumento en la densidad de colágeno nuevo y simultáneamente el grosor general de la capa de grasa comienza a disminuir, lo que produce resultados increíbles.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-exilis">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

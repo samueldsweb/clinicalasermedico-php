@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "Ondas de choque: Alivio de dolencias"; $title_breadcumb = "Ondas de choque";
     include("breadcumb.php") ?>
@@ -30,7 +33,7 @@ include("head.php");
                                                 <p>Mediante la emisión de ultrasonidos de alta energía y frecuencia se resuelven en la actualidad diversas dolencias que antes solo podían tratarse quirúrgicamente.</p>
                                                 <p>Es empleada eficazmente en Medicina estética, traumatología, reumatología, fisioterapia y medicina deportiva, así como en el tratamiento de afecciones del sistema circulatorio y medicina interna.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-ondas">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "Borramos tatuajes sin dejar rastros"; $title_breadcumb = "Eliminación de tatuajes";
     include("breadcumb.php") ?>
@@ -32,7 +35,7 @@ include("head.php");
                                                 <p>En nuestra clínica contarás con dos aspectos importantes para el tatuaje borrado con laser: La tecnología más avanzada del país y la experiencia profesional de nuestros expertos de la salud.</p>
                                                 <p>Clínica Láser Médico te presenta la segunda generación de láseres más potentes y rápidos del mundo. El borrado  por completo es una realidad para nosotros.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-tatuajes">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>

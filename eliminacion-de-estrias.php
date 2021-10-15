@@ -8,6 +8,9 @@ include("head.php");
 ?>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNV553F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <?php include("header.php") ?>
     <?php $title_page = "Eliminamos estrías de manera exitosa"; $title_breadcumb = "Eliminación de Estrías";
     include("breadcumb.php") ?>
@@ -30,7 +33,7 @@ include("head.php");
                                                 <p>Cuando nuestra piel se estira, las fibras con menos elasticidad se rompen creando estas marcas a las que llamamos estrías. Aparecen estrías rojas y con el tiempo se despigmentan tornándose color blanquecino o nacaradas.</p>
                                                 <p>La aparición de las estrías es muy común en mujeres embarazadas, cuando se aumenta de peso en la obesidad, en el desarrollo de adolescentes, como efecto secundario de medicamentos o por aumento rápido en el tamaño de los músculos debido al levantamiento de peso.</p>
                                                 <div class="service-btn btn2">
-                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
+                                                    <a href="https://web.bewe.co/clinica-laser-medico/services" target="blank" id="btn_clm_agendar-servicio-estrias">Agendar Hora<span class="ti-arrow-right ml-2"></span></a>
                                                 </div>
                                             </div>
                                         </div>
