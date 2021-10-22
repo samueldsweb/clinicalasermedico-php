@@ -18,7 +18,7 @@
 										<div class="witr_btn_sinner d-block d-md-none">
 											<a class="witr_btn w-50" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank" id="btn_clm_agendar-carousel-1">Agenda tu hora</a>
 											<br>
-											<a class="witr_btn active recpwit w-50" href="https://clinicalasermedico.cl/blog/" target="_blank" id="btn_clm_blog-carousel-1">Noticias de interés</a>
+											<a class="witr_btn active recpwit w-50" href="https://clinicalasermedico.cl/blog/" target="_blank" id="btn_clm_blog-carousel-1">Nuestro Blog</a>
 										</div>
 									</div>
 								</div>

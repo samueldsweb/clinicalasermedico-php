@@ -25,7 +25,7 @@
         }
 
         // Set the recipient email address.
-        $recipient = "bruix.io@gmail.com";
+        $recipient = "kinestetica@gmail.com";
 
         // Set the email sub.
         $sub = "Mensaje enviado desde sitio web por: $name";
