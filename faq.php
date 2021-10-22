@@ -2,65 +2,15 @@
 <section>
     <div class="single_faq_bg_area faq_area">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-10 col-sm-12">
-                    <div class="witr_section_title">
-                        <div class="witr_section_title_inner text-left">
-                            <h2 class="mb-0">No te quedes con dudas</h2>
-                            <h3>Preguntas Frecuentes</h3>
-                        </div>
-                    </div>
-                    <div class="witr_single_progress">
-                        <div class="witr_title2">
-                            <span class="witr_label">Años de experiencia</span>
-                        </div>
-                        <div class="progress witr_progress-style2">
-                            <div class="progress-bar wow fadeInLeft " data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 99%;">
-                                <span class="witr_percent">99%</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="witr_single_progress">
-                        <div class="witr_title2">
-                            <span class="witr_label">Tecnología de última generación</span>
-                        </div>
-                        <div class="progress witr_progress-style2">
-                            <div class="progress-bar wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 90%;">
-                                <span class="witr_percent">90%</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="witr_single_progress">
-                        <div class="witr_title2">
-                            <span class="witr_label">Tratamientos estéticos para hombres y mujeres</span>
-                        </div>
-                        <div class="progress witr_progress-style2">
-                            <div class="progress-bar wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 99%;">
-                                <span class="witr_percent">99%</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="witr_single_progress">
-                        <div class="witr_title2">
-                            <span class="witr_label">Procedimientos de alta calidad</span>
-                        </div>
-                        <div class="progress witr_progress-style2">
-                            <div class="progress-bar wow fadeInLeft " data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 95%;">
-                                <span class="witr_percent">95%</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="witr_button_area button2">
-                        <div class="witr_btn_style mr">
-                            <div class="witr_btn_sinner">
-                                <a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank" id="btn_clm_agendar-index-faq">Agendar Hora</a>
-                            </div>
-                        </div>
-                    </div>
+            <div class="witr_section_title">
+                <div class="witr_section_title_inner text-left">
+                    <h2 class="mb-0">No te quedes con dudas</h2>
+                    <h3 class="mb-0">Preguntas Frecuentes</h3>
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="accordion_area">
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12 pb-5 pb-md-0">
+                    <div class="accordion_area pt-4">
                         <div class="faq-part">
                             <div id="accordion">
                                 <div class="card card-2">
@@ -115,6 +65,57 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-6 col-md-10 col-sm-12 pb-5 pb-md-0">
+                    <div class="witr_single_progress">
+                        <div class="witr_title2">
+                            <span class="witr_label">Años de experiencia</span>
+                        </div>
+                        <div class="progress witr_progress-style2">
+                            <div class="progress-bar wow fadeInLeft " data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 100%;">
+                                <span class="witr_percent">Más de 40</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="witr_single_progress">
+                        <div class="witr_title2">
+                            <span class="witr_label">Tecnología de última generación</span>
+                        </div>
+                        <div class="progress witr_progress-style2">
+                            <div class="progress-bar wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 90%;">
+                                <span class="witr_percent">90%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="witr_single_progress">
+                        <div class="witr_title2">
+                            <span class="witr_label">Tratamientos estéticos para hombres y mujeres</span>
+                        </div>
+                        <div class="progress witr_progress-style2">
+                            <div class="progress-bar wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 99%;">
+                                <span class="witr_percent">99%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="witr_single_progress">
+                        <div class="witr_title2">
+                            <span class="witr_label">Procedimientos de alta calidad</span>
+                        </div>
+                        <div class="progress witr_progress-style2">
+                            <div class="progress-bar wow fadeInLeft " data-wow-duration="1.5s" data-wow-delay="0.2s" style="width: 95%;">
+                                <span class="witr_percent">95%</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="witr_button_area button2">
+                        <div class="witr_btn_style mr">
+                            <div class="witr_btn_sinner">
+                                <a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank" id="btn_clm_agendar-index-faq">Agendar Hora</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

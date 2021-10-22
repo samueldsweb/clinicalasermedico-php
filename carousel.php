@@ -3,17 +3,22 @@
 		<div class="witr_swiper_area">
 			<div class="swiper-container witr_active_id5">
 				<div class="swiper-wrapper">
-					<div class="swiper-slide witr_swiper_height" style="background-image: url(assets/images/slider-principal-1.jpg);">
+					<div class="swiper-slide witr_swiper_height background-carousel-img">
 						<div class="witr_sw_text_area text-left">
 							<div class="witr_swiper_content">
-								<h2>Servicio Láser</h2>
-								<h3>Con  <span> Experiencia</span></h3>
+								<h2 class="text-title-mobile">Servicio Láser</h2>
+								<h3 class="text-title-mobile">Con  <span>Experiencia</span></h3>
 								<!-- btn gradient style -->
 								<div class="slider_btn">
 									<div class="witr_btn_style">
-										<div class="witr_btn_sinner">
+										<div class="witr_btn_sinner d-none d-md-block">
 											<a class="witr_btn" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank" id="btn_clm_agendar-carousel-1">Agenda tu hora</a>
 											<a class="witr_btn active recpwit" href="https://clinicalasermedico.cl/blog/" target="_blank" id="btn_clm_blog-carousel-1">Noticias de interés</a>
+										</div>
+										<div class="witr_btn_sinner d-block d-md-none">
+											<a class="witr_btn w-50" href="https://web.bewe.co/clinica-laser-medico/services" target="_blank" id="btn_clm_agendar-carousel-1">Agenda tu hora</a>
+											<br>
+											<a class="witr_btn active recpwit w-50" href="https://clinicalasermedico.cl/blog/" target="_blank" id="btn_clm_blog-carousel-1">Noticias de interés</a>
 										</div>
 									</div>
 								</div>

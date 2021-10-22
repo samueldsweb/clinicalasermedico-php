@@ -32,6 +32,10 @@ Version: 1.0
     color: #fff!important;
 }
 
+.background-carousel-img {
+    background-image: url(assets/images/slider-principal-1.jpg);
+}
+
 @media (max-width: 580px) {
     .btn-whatsapp {
         position: fixed;
@@ -40,4 +44,20 @@ Version: 1.0
         bottom: 80px;
         z-index: 2147483647;
     }
+
+    .background-carousel-img {
+        background-image: url(assets/images/slider-principal-mobile-1.jpg);
+    }
+
+    .text-title-mobile {
+        color: #fff!important;
+        font-size: 3rem!important;
+    }
+
+    .slider_btn .witr_btn.active {
+        background: #ffffff52!important;
+        border: 1px solid #0C5ADB!important;
+        color: #ffffff!important;
+    }
+    
 }
